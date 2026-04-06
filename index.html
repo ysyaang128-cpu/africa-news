@@ -263,10 +263,7 @@ async function loadAll(){
     const artData = await artRes.json();
     allArticles = artData.articles || [];
     iranArticles = allArticles.filter(a => a.topic === 'Iran & Africa');
-
-    const upd = new Date(artData.meta?.updated || Date.now());
-    document.getElementById('upd').textContent =
-      `Updated ${upd.toLocaleDateString('en-GB',{day:'numeric',month:'short'})} ${upd.toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'})} UTC`;
+    document.getElementById('upd').textContent = 'Updated ' + (artData.updated || '');
   } catch(e){
     // articles.json not found yet — show placeholder message
     allArticles = [];
