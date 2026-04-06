@@ -2,17 +2,14 @@ name: Daily Africa News Update
 
 on:
   schedule:
-    # 매일 오전 6시 UTC (한국시간 오후 3시) 자동 실행
-    - cron: '0 6 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
-    # GitHub 웹에서 수동 실행도 가능
-
-permissions:
-  contents: write
 
 jobs:
   update-articles:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -21,7 +18,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Fetch latest articles
         run: python fetch_news.py
@@ -30,6 +27,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add articles.json iran.json
-          git diff --cached --quiet || git commit -m "📰 Daily article update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git add articles.json
+          git diff --cached --quiet || git commit -m "chore: update articles $(date +'%Y-%m-%d')"
           git push
