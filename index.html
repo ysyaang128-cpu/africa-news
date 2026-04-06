@@ -259,14 +259,10 @@ let curSrc='all', curTopic='all', curCountry='all';
 async function loadAll(){
   document.getElementById('arts').innerHTML='<div class="state"><div class="spinner"></div>Loading articles...</div>';
   try{
-    const [artRes, iranRes] = await Promise.all([
-      fetch('articles.json?t='+Date.now()),
-      fetch('iran.json?t='+Date.now()),
-    ]);
-    const artData  = await artRes.json();
-    const iranData = await iranRes.json();
-    allArticles  = artData.articles  || [];
-    iranArticles = iranData.articles || [];
+    const artRes = await fetch('articles.json?t='+Date.now());
+    const artData = await artRes.json();
+    allArticles = artData.articles || [];
+    iranArticles = allArticles.filter(a => a.topic === 'Iran & Africa');
 
     const upd = new Date(artData.meta?.updated || Date.now());
     document.getElementById('upd').textContent =
