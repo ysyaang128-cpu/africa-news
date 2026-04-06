@@ -24,7 +24,7 @@ jobs:
           python-version: '3.11'
 
       - name: Fetch latest articles
-        run: python fetch_articles.py
+        run: python fetch_news.py
 
       - name: Commit and push updated articles
         run: |
