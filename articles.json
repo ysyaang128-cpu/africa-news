@@ -1,12 +1,12 @@
 {
-  "updated": "25 Sep 2026 12:18 KST",
-  "count": 98,
+  "updated": "26 Sep 2026 12:23 KST",
+  "count": 100,
   "articles": [
     {
       "title": "Ethiopia",
       "desc": "",
       "url": "https://www.cnn.com/specials/africa/ethiopia?utm_source=section",
-      "time": "2026-09-25T12:18:47.067923+09:00",
+      "time": "2026-09-26T12:23:11.723386+09:00",
       "timeAgo": "0m ago",
       "topic": "Society",
       "country": "Ethiopia",
@@ -20,7 +20,7 @@
       "title": "Nigeria",
       "desc": "",
       "url": "https://www.cnn.com/specials/africa/nigeria?utm_source=section",
-      "time": "2026-09-25T12:18:47.067923+09:00",
+      "time": "2026-09-26T12:23:11.723386+09:00",
       "timeAgo": "0m ago",
       "topic": "Society",
       "country": "Nigeria",
@@ -31,43 +31,826 @@
       "badge": "b-cnn"
     },
     {
-      "title": "Africa: LAA Makes Case At Aci Africa Confab - Seeks Aviation Investment, Regional Partnerships",
-      "desc": "[New Republic] The Liberia Airport Authority (LAA) is seeking stronger regional partnerships, technical support and investment opportunities as its leadership p…",
-      "url": "https://allafrica.com/stories/202609240631.html",
-      "time": "2026-09-25T07:28:21+09:00",
-      "timeAgo": "4h ago",
-      "topic": "Politics",
+      "title": "UNGA81: Why has Africa’s Security Council reform push remained unresolved?",
+      "desc": "Africa wants permanent seats and veto power, but agreement remains elusive.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/unga81-why-has-africas-security-council-reform-push-remained-unresolved?traffic_source=rss",
+      "time": "2026-09-26T12:07:55+09:00",
+      "timeAgo": "15m ago",
+      "topic": "Society",
       "country": "Regional",
       "keywords": [
-        "makes",
-        "case",
-        "confab"
+        "unga",
+        "security",
+        "council"
+      ],
+      "src": "Al Jazeera",
+      "badge": "b-aj"
+    },
+    {
+      "title": "Plane crash in DR Congo kills more than a dozen",
+      "desc": "Civilians and senior military officials among 14 dead after an army plane crashes into a residential area in the DRC.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/plane-crash-in-dr-congo-kills-more-than-a-dozen?traffic_source=rss",
+      "time": "2026-09-26T10:32:36+09:00",
+      "timeAgo": "1h ago",
+      "topic": "Conflict",
+      "country": "DRC",
+      "keywords": [
+        "plane",
+        "crash",
+        "congo"
+      ],
+      "src": "Al Jazeera",
+      "badge": "b-aj"
+    },
+    {
+      "title": "Rwanda vs Liberia: Africa Cup of Nations Qualification stats & head-to-head - bbc.com",
+      "desc": "Rwanda vs Liberia: Africa Cup of Nations Qualification stats & head-to-head&nbsp;&nbsp;bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LeEFSQmFZdlNNMFFPbVMyQzJMQ0czalhZdzJLaG1LWnM3bEYwVzVsenpoc2R0VEZMbVI1WWVEaG9NaFVYQlpSVlZSTE9OYlhrOERGNjkwWWNkbDZZRzF4RG9Rcw?oc=5",
+      "time": "2026-09-26T09:36:04+09:00",
+      "timeAgo": "2h ago",
+      "topic": "Sport",
+      "country": "Rwanda",
+      "keywords": [
+        "rwanda",
+        "liberia",
+        "nations"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
+    },
+    {
+      "title": "Africa: Africa's Endless Song At the UN General Assembly",
+      "desc": "[Nile Post] When the United Nations (UN) was founded in 1945, most of Africa was still under colonial rule and not represented as independent states. Today, the…",
+      "url": "https://allafrica.com/stories/202609250592.html",
+      "time": "2026-09-26T08:57:53+09:00",
+      "timeAgo": "3h ago",
+      "topic": "Society",
+      "country": "Regional",
+      "keywords": [
+        "endless",
+        "song",
+        "general"
       ],
       "src": "AllAfrica",
       "badge": "b-aa"
     },
     {
-      "title": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
-      "desc": "DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin.",
-      "url": "https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss",
-      "time": "2026-09-25T06:56:15+09:00",
-      "timeAgo": "5h ago",
+      "title": "Are Ethiopians marching back to war in Tigray?",
+      "desc": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-09-26T08:42:39+09:00",
+      "timeAgo": "3h ago",
+      "topic": "Conflict",
+      "country": "Ethiopia",
+      "keywords": [
+        "ethiopians",
+        "marching",
+        "back"
+      ],
+      "src": "BBC",
+      "badge": "b-bbc"
+    },
+    {
+      "title": "Africa: South Africa, Mozambique Into U20 Cosafa Cup Final",
+      "desc": "[Namibian] Defending champions South Africa and hosts Mozambique will contest the final of the TotalEnergies CAF under-20 Africa Cup of Nations | Cosafa Qualifi…",
+      "url": "https://allafrica.com/stories/202609250586.html",
+      "time": "2026-09-26T08:26:01+09:00",
+      "timeAgo": "3h ago",
       "topic": "Sport",
+      "country": "South Africa",
+      "keywords": [
+        "south",
+        "mozambique",
+        "cosafa"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "desc": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "time": "2026-09-26T08:20:48+09:00",
+      "timeAgo": "4h ago",
+      "topic": "Society",
+      "country": "South Africa",
+      "keywords": [
+        "south",
+        "white",
+        "genocide"
+      ],
+      "src": "BBC",
+      "badge": "b-bbc"
+    },
+    {
+      "title": "Africa: Africa Urged to Strengthen Budget Oversight",
+      "desc": "[New Era] African parliaments have been urged to strengthen their oversight of public finances through well-resourced and independent Parliamentary Budget Offic…",
+      "url": "https://allafrica.com/stories/202609250571.html",
+      "time": "2026-09-26T08:19:31+09:00",
+      "timeAgo": "4h ago",
+      "topic": "Politics",
+      "country": "Regional",
+      "keywords": [
+        "urged",
+        "strengthen",
+        "budget"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Deputy Chairperson held a productive exchange with H.E. Olivier J.P. Nduhungirehe, Minister of Foreign Affairs and International Cooperation of Rwanda - au.int",
+      "desc": "Deputy Chairperson held a productive exchange with H.E. Olivier J.P. Nduhungirehe, Minister of Foreign Affairs and International Cooperation of Rwanda&nbsp;&nbs…",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWE2VkxkRmJDUm51RHNiMURZeVlRVXBncTVaWGw2RUFPZVVzR0h2ZHlBYWpJTDVIMllTTFppMkI1bzl0V2F3X0o2enBXTWdZV1pqSmloeHMzYUsyZDJWWERkeVFhdGRMQ1diR2dRMmJpb1ptTUtSNmRiZUJZSURZREpkWjc5WVhfZGdCRjlNaE44WXFXLWFLQjhMYjJmbG1adkE?oc=5",
+      "time": "2026-09-26T07:24:49+09:00",
+      "timeAgo": "4h ago",
+      "topic": "Politics",
+      "country": "Rwanda",
+      "keywords": [
+        "deputy",
+        "chairperson",
+        "held"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
+    },
+    {
+      "title": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
+      "desc": "Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss",
+      "time": "2026-09-26T07:16:35+09:00",
+      "timeAgo": "5h ago",
+      "topic": "Society",
       "country": "DRC",
       "keywords": [
         "congo",
-        "ivory",
-        "coast"
+        "ebola",
+        "outbreak"
       ],
       "src": "Al Jazeera",
       "badge": "b-aj"
+    },
+    {
+      "title": "African Presidents Call for Permanent African Seats on U.N. Security Council",
+      "desc": "A host of African leaders including the presidents of Ghana, Liberia, Kenya and Namibia demanded the change while the U.N. Secretary General said the lack of a …",
+      "url": "https://www.nytimes.com/2026/09/25/world/africa/africa-security-council-representation.html",
+      "time": "2026-09-26T04:18:48+09:00",
+      "timeAgo": "8h ago",
+      "topic": "Politics",
+      "country": "Kenya",
+      "keywords": [
+        "presidents",
+        "call",
+        "permanent"
+      ],
+      "src": "NYT",
+      "badge": "b-nyt"
+    },
+    {
+      "title": "Nigeria fight back as Gambia, Rwanda and Guinea-Bissau make winning starts to AFCON 2027 qualifiers - cafonline.com",
+      "desc": "Nigeria fight back as Gambia, Rwanda and Guinea-Bissau make winning starts to AFCON 2027 qualifiers&nbsp;&nbsp;cafonline.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTnBtT1lXWWhQOUU5Yk1ValhHT2J4MGJ6ZTZBNFZHcXhBUVMwQlFiN09kSWFrUVBUdTJEQV9HOXQ5N1BVZWdfVXBQZzJKdHpGZjRQZ01vR240OXVDS1dZdVNWdkwzSGg0ZVAyZ0R5TkRPOXB0Y1pOQ3dkcHRyenRNTHhKajFwT0V2aWFyNWRjN1NheTViYmJTbjgwNGFRbG1WQm1GcFlwczBKUEY3RmhXQUJSa0dLdGlwTzFCV2twNGlCSXNtZkwyQXJyX0staGQzckZ3alFrYw?oc=5",
+      "time": "2026-09-26T03:51:37+09:00",
+      "timeAgo": "8h ago",
+      "topic": "Sport",
+      "country": "Nigeria",
+      "keywords": [
+        "nigeria",
+        "fight",
+        "back"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
+    },
+    {
+      "title": "Africa: Oyedele Seeks Affordable Capital to Power Africa's Infrastructure Growth",
+      "desc": "[Daily Trust] The Minister of Finance and Coordinating Minister of the Economy, Taiwo Oyedele, has called on the international community to significantly expand…",
+      "url": "https://allafrica.com/stories/202609250487.html",
+      "time": "2026-09-26T03:37:19+09:00",
+      "timeAgo": "8h ago",
+      "topic": "Politics",
+      "country": "Regional",
+      "keywords": [
+        "oyedele",
+        "seeks",
+        "affordable"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Africa: Brazil, Germany, 2 Others Back Permanent African Seat On UN Security Council",
+      "desc": "[Daily Trust] Brazil, Germany, India and Japan have backed a permanent African seat on the United Nations Security Council (UNSC), calling for urgent reform of …",
+      "url": "https://allafrica.com/stories/202609250483.html",
+      "time": "2026-09-26T03:37:17+09:00",
+      "timeAgo": "8h ago",
+      "topic": "Society",
+      "country": "Regional",
+      "keywords": [
+        "brazil",
+        "germany",
+        "others"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Africa: WHO Director-General's remarks at the High-Level Meeting on Pandemic Prevention, Preparedness and Response",
+      "desc": "[WHO] New York -- Your Excellency Dr Khalilur Rahman, President of the General Assembly, Your Excellency Amar Bendjama, President of ECOSOC, My sister, Deputy S…",
+      "url": "https://allafrica.com/stories/202609250480.html",
+      "time": "2026-09-26T03:16:30+09:00",
+      "timeAgo": "9h ago",
+      "topic": "Politics",
+      "country": "Regional",
+      "keywords": [
+        "director",
+        "general",
+        "remarks"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
+      "desc": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
+      "time": "2026-09-26T02:13:55+09:00",
+      "timeAgo": "10h ago",
+      "topic": "Conflict",
+      "country": "Ethiopia",
+      "keywords": [
+        "internet",
+        "restricted",
+        "fighting"
+      ],
+      "src": "BBC",
+      "badge": "b-bbc"
+    },
+    {
+      "title": "Over 55,000 Sudanese refugees fled to east Chad this year: UN",
+      "desc": "More than 55,000 Sudanese refugees have crossed into eastern Chad since the start of the year, the United Nations said Friday, warning that the displacement was…",
+      "url": "http://www.africanews.com/2026/09/25/over-55000-sudanese-refugees-fled-to-east-chad-this-year-un/",
+      "time": "2026-09-26T01:43:49+09:00",
+      "timeAgo": "10h ago",
+      "topic": "Conflict",
+      "country": "Regional",
+      "keywords": [
+        "sudanese",
+        "refugees",
+        "fled"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "[SOCCER-TV!]Rwanda vs Liberia LIVE Free ON TV - czechinvest.gov.cz",
+      "desc": "[SOCCER-TV!]Rwanda vs Liberia LIVE Free ON TV&nbsp;&nbsp;czechinvest.gov.cz",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNby05dnQ3YW91YWFiTUoydzk5MlhwbWwyVDNrNk9odWdOWDVsWGh2aEtqeHAxWHNyb3FtbjNWcVhDZ1AwM1pCR3QxaGM2bUN0djFCSmMxeUlHdVBPV21SaG9BVHNEY0xxUzlXamdfSHlfNjJGZlBIMG9FV2tEV1A5enIyeGFrNTQ2d0loWlloeXYxUk8zbmJYcW9qWE40Yi1FRFNTT3Qtcm9IZVotcERFdE51bXY4M0pRXy1KRDQwb1pqQXNKaVRoOUVEQW1XTG1uMEJtRHQ1M1pCTzl2MW14VW85VDVCa0ZEVGtEWWFTeFJCZEtvb0tqaE1iTno1bk94TDNyTElEc1M5Y1ZxN3UtRFBFcTN2eTVKQ1dLNjd2RnpIYzc4RklMRXg5d3JhSTJEUzdDVC0yTGw2VXZoN1VHN05SS0xfQ2NXUzBPZERYbHFuMWR2b1VxQw?oc=5",
+      "time": "2026-09-26T01:18:07+09:00",
+      "timeAgo": "11h ago",
+      "topic": "Economy",
+      "country": "Rwanda",
+      "keywords": [
+        "soccer",
+        "rwanda",
+        "liberia"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
+    },
+    {
+      "title": "LIVE!] ]Rwanda vs Liberia LIVE Free ON Tv Channel - czechinvest.gov.cz",
+      "desc": "LIVE!] ]Rwanda vs Liberia LIVE Free ON Tv Channel&nbsp;&nbsp;czechinvest.gov.cz",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxORTFOUThhZUxTaXpqbjludTlUdzdiS3pxcFdZS0p6R2twaGdzNDJnQko3N2NNNXN6TF9xcm1sS0RYdDZsaXZ6QVI1MV9ueXMyenp2UkRxNFltZFR1TTRZRkpxT3VRbmM4NG5BeUtiVWhuOXRwblFsOGNiWG92ckFkSG94Ym1nUlFkVFEwWHVsc18tWTRRME9XMlBuY1BYS1FQeU5aR2p1d3ZWUkM1eGlVRmJ4ZkdJZjlsWGNBYk9Fbk5RWkVrV0dGd2RPUjE4RDVFTmVuU04zVjlpZnhtdHFXdlAwUzA1R1hqZGZVczFseWhNenc2ZVpwVU40d1JFODItVFVFNC1yZ3RzZVQzRzlRYUxXWGdsNzJrYTNoSUFyc0k3Nm52OUFuTWtabzNINkFtLWNQd0kyU1BoQ2V3ZGYyMVVyS1VBb1BtR1NFcmFpZDJmLUl1WXh5akJhVm0?oc=5",
+      "time": "2026-09-26T01:18:06+09:00",
+      "timeAgo": "11h ago",
+      "topic": "Economy",
+      "country": "Rwanda",
+      "keywords": [
+        "live",
+        "rwanda",
+        "liberia"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
+    },
+    {
+      "title": "[FOOTBALL TV]Rwanda vs Liberia LIVE Free Stream - czechinvest.gov.cz",
+      "desc": "[FOOTBALL TV]Rwanda vs Liberia LIVE Free Stream&nbsp;&nbsp;czechinvest.gov.cz",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQMWRYZm1YdW5lV3JHdkxPSEZ5cU5BMkplN1Fva0ZBWURTd0M3N1d0QUVmbTV0R3BhUlVnOVYySmlCcHBtbi1zbE1qNTEwU2huZHdSWUs3VlQxQTc1Yl9Wdkt5MkxkZ1Z3MS1LQlVlTEx4MTBfanJPbmw0d05HZTFucVdlYTFIUFFnU0JXSU1HUTlveVRQQ2hQOEJ5XzVELTdCNkZXMDJXeTdIVG9pNUR2aUtVcWFRYm52SWFjcVdDV3lZUXAxai14X0ZoVGlmVTJiMFVpaDZhN1dyeHQ1cFRpMnZTaFlUY3lRTmd1OVd4Z0hPZWtuRy14ai1QUHBpRXd6ZjItN0M5cDVZODU0aGdDS2k3LXFJUjlkTjQtQjZWVGJJLUJSWW5YT0FTeTBDTGpPeDlORkEyNjhnVmN4Umh1TnhYY2tmMEZKc0hrV1dpZVZyY2x2c2NqdUhYQTk1NWhV?oc=5",
+      "time": "2026-09-26T01:18:05+09:00",
+      "timeAgo": "11h ago",
+      "topic": "Economy",
+      "country": "Rwanda",
+      "keywords": [
+        "football",
+        "rwanda",
+        "liberia"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
+    },
+    {
+      "title": "[YouTube/LIVE] Rwanda vs Liberia Live Free September 25, 2026 - czechinvest.gov.cz",
+      "desc": "[YouTube/LIVE] Rwanda vs Liberia Live Free September 25, 2026&nbsp;&nbsp;czechinvest.gov.cz",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOSnExSVBzZzF6WGx2VXFzamRJbktvUUt5RWRveF92LXJCV2V1UzFKeFZGUE9pMmtYZUFZZTg4UEFXdXRQR3hoc0pKSXJYUzNwMGlfMXFEQ3BxbE1JN3BMbkpKVjdTYXRPY0VuaHg5SHZIZ0U4Rjc3bjBKX0FubUh2TWVzQWV1alQ2dXZiVkdGbmh0Nm0tSnVabmdEMjdWWFk4VG12Z2xxdVppc2hrakU4T1FZRDNSdG5pNUo5WUp6bG04THBtbU1FQUpnclNuay1hNlZhZ1FLTkZvOHlfQ2prWFlMaDFaa2hvNjluQmhGT1B6UHY5Q0Nuc2J0ZFp5VzBEZjRycm80aDNuamN4U3lxaE1yemhGV1IwdHJVdXB0YjhZYWR0ZHBwWlpVbjYxeXowVlU2aS13cWJqM1lpSUk0STd0MFliY3FmYW1Sai1SR2VQZw?oc=5",
+      "time": "2026-09-26T00:59:23+09:00",
+      "timeAgo": "11h ago",
+      "topic": "Economy",
+      "country": "Rwanda",
+      "keywords": [
+        "youtube",
+        "live",
+        "rwanda"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
+    },
+    {
+      "title": "(WATCHLIVE!FREE)Rwanda vs Liberia LIVE STreams - czechinvest.gov.cz",
+      "desc": "(WATCHLIVE!FREE)Rwanda vs Liberia LIVE STreams&nbsp;&nbsp;czechinvest.gov.cz",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNcFhENWpnaHpLc0pYdHY0Y3Vpalg2d05vTTN1bXdBcUk2aDFSM2xyS1Vjc3ZTaTZHNjRJdkhYOThwR0hwdGxMYUdjN3dGR2MzWXhLSW16dTIzemxST28yX2tldEViNEFtVHZJWEh1N2oyb2dDXy1VeHoyQnZxU3ZkZDJTeEU3aUZYREZwQmt6dEZLUERBWGhYM1BMbXNJN1p5NUhJX0xSWU0wOTVVY3E4S1lILS1FNGYyTy1kdGNZM2Z3RGhnZXpiSWJoRkU5SC1jVm9JdlJUTlItNElwZ3VsX2tNSTFpdHdTSDhMMEM2UEtGdjNRR2RkN3VaX2NYd2hVWkpBOXU0eU5OR2JqS0JMY3VyNDNWbWVzd3F0VzlQaHBPWVY5d2hwZS1aZEhfR2V2THdUdTJlVVZzNkpkQThBZy10Y2hwaE5YTDNWUGNGa2tRZw?oc=5",
+      "time": "2026-09-26T00:59:20+09:00",
+      "timeAgo": "11h ago",
+      "topic": "Economy",
+      "country": "Rwanda",
+      "keywords": [
+        "watchlive",
+        "free",
+        "rwanda"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
+    },
+    {
+      "title": "((espn) Rwanda vs Liberia Live Free AFCON - czechinvest.gov.cz",
+      "desc": "((espn) Rwanda vs Liberia Live Free AFCON&nbsp;&nbsp;czechinvest.gov.cz",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPWUttQlpsQUFVNnBkSnlMLWlsN2RLTXRNNlFxc3V4UVV1SGZnbUc1dG5MZnNyWGVWdUhUZGd6dkQzbVNjRk9WSEJWQ3dDa1Ytb0p1THRVLWQwS3pGbGYxTEZXbXlLd0ZGZmhMSjlwekF3UHJGR2hxU0RuU0YycE9yamVrOGlCUGxPeHhlakZURnRNVU1jUnBXbXFQWDFwMlNmM1BHNVVBbFp5b1hRWEtXeE9wOHZLYjMzak9FSzI3QklNcDVZaU9Td05tQmx2dWtaRmh1RVBuQy0yYmVCWGk1azRpb3JCOWNCVWVqUEpFZ3ZpYTFweHRVN3YtRHlFT3JGQ1Y2MU84NndGdVBCVnJsR3NLYVB0ai1aRnhwenBZOC1uMng1YlFta24wVV9vM21PSGIzVHpHMXM5MTJ4TVY1aERPRFJpaXhDV0h5SQ?oc=5",
+      "time": "2026-09-26T00:59:10+09:00",
+      "timeAgo": "11h ago",
+      "topic": "Economy",
+      "country": "Rwanda",
+      "keywords": [
+        "espn",
+        "rwanda",
+        "liberia"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
+    },
+    {
+      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+      "desc": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
+      "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-09-25T23:24:19+09:00",
+      "timeAgo": "12h ago",
+      "topic": "Economy",
+      "country": "Ethiopia",
+      "keywords": [
+        "richest",
+        "helps",
+        "fund"
+      ],
+      "src": "BBC",
+      "badge": "b-bbc"
+    },
+    {
+      "title": "DRC amputee football tournament offers hope and a path to recovery",
+      "desc": "In Uvira, in the east of the Democratic Republic of the Congo, football is also being used as a way to rebuild lives. From 23 to 25 September, amputee players f…",
+      "url": "http://www.africanews.com/2026/09/25/drc-amputee-football-tournament-offers-hope-and-a-path-to-recovery/",
+      "time": "2026-09-25T23:10:51+09:00",
+      "timeAgo": "13h ago",
+      "topic": "Sport",
+      "country": "DRC",
+      "keywords": [
+        "amputee",
+        "football",
+        "tournament"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "South Sudan: Kiir opens political dialogue ahead of December elections",
+      "desc": "Critics have questioned whether credible elections can be held in just three months, amid concerns over security, political space and the absence of a permanent…",
+      "url": "http://www.africanews.com/2026/09/25/south-sudan-kiir-opens-political-dialogue-ahead-of-december-elections/",
+      "time": "2026-09-25T23:00:34+09:00",
+      "timeAgo": "13h ago",
+      "topic": "Politics",
+      "country": "Sudan",
+      "keywords": [
+        "south",
+        "sudan",
+        "kiir"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Analyst warns Ethiopia fighting could widen into regional conflict",
+      "desc": "Renewed fighting in northern Ethiopia could spread beyond Tigray and destabilize the wider Horn of Africa, an International Crisis Group analyst warned",
+      "url": "http://www.africanews.com/2026/09/25/analyst-warns-ethiopia-fighting-could-widen-into-regional-conflict/",
+      "time": "2026-09-25T22:49:27+09:00",
+      "timeAgo": "13h ago",
+      "topic": "Conflict",
+      "country": "Ethiopia",
+      "keywords": [
+        "analyst",
+        "warns",
+        "ethiopia"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Africa: Uganda Begins Countdown to 2027 Future Hospitality Summit Africa",
+      "desc": "[Nile Post] Uganda has begun the countdown to the 2027 Future Hospitality Summit (FHS) Africa, with the Uganda Tourism Board (UTB) and Kampala Serena Hotel host…",
+      "url": "https://allafrica.com/stories/202609250294.html",
+      "time": "2026-09-25T22:05:47+09:00",
+      "timeAgo": "14h ago",
+      "topic": "Society",
+      "country": "Uganda",
+      "keywords": [
+        "uganda",
+        "begins",
+        "countdown"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "African-American artist’s work celebrated in travelling retrospective",
+      "desc": "Kerry James Marshall's arguably done more than any living artist to bring black figures into Western galleries",
+      "url": "http://www.africanews.com/2026/09/25/african-american-artists-work-celebrated-in-travelling-retrospective/",
+      "time": "2026-09-25T21:38:33+09:00",
+      "timeAgo": "14h ago",
+      "topic": "Society",
+      "country": "Regional",
+      "keywords": [
+        "american",
+        "artist",
+        "work"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Africa: All of Africa Today - September 25, 2026",
+      "desc": "[allAfrica] Uganda Begins $121M South Sudan Power Interconnection Project",
+      "url": "https://allafrica.com/stories/202609250212.html",
+      "time": "2026-09-25T21:37:50+09:00",
+      "timeAgo": "14h ago",
+      "topic": "Society",
+      "country": "Sudan",
+      "keywords": [
+        "today",
+        "september"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Africa: Africa Initiative to Tackle Quick Money Syndrome At Conference",
+      "desc": "[Leadership] The Made for More Africa Initiative of the Victor Bello Foundation is set to address the culture of instant gratification and the pursuit of quick …",
+      "url": "https://allafrica.com/stories/202609250209.html",
+      "time": "2026-09-25T21:36:27+09:00",
+      "timeAgo": "14h ago",
+      "topic": "Politics",
+      "country": "Regional",
+      "keywords": [
+        "initiative",
+        "tackle",
+        "quick"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "KoBold Metals uses AI to search for critical minerals in Congo",
+      "desc": "A US mining company is using artificial intelligence to search for critical minerals in the Democratic Republic of Congo.",
+      "url": "http://www.africanews.com/2026/09/25/kobold-metals-uses-ai-to-search-for-critical-minerals-in-congo/",
+      "time": "2026-09-25T21:29:59+09:00",
+      "timeAgo": "14h ago",
+      "topic": "Technology",
+      "country": "DRC",
+      "keywords": [
+        "kobold",
+        "metals",
+        "uses"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Nigeria and US sign deal to increase mining investment",
+      "desc": "Nigeria and the United States on Wednesday signed a framework agreement to \"deepen American investment\" in the West African's country mining sector. Nigeria say…",
+      "url": "http://www.africanews.com/2026/09/24/nigeria-and-us-sign-deal-to-increase-mining-investment/",
+      "time": "2026-09-25T21:04:38+09:00",
+      "timeAgo": "15h ago",
+      "topic": "Economy",
+      "country": "Nigeria",
+      "keywords": [
+        "nigeria",
+        "sign",
+        "deal"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Niger signs deal with Australian group to relaunch uranium project",
+      "desc": "Niger authorities said Wednesday they have signed a new agreement with the Madaouela Mining Company, which is 60% owned by the Australian Atomic Eagle group, to…",
+      "url": "http://www.africanews.com/2026/09/24/niger-signs-deal-with-australian-group-to-relaunch-uranium-project/",
+      "time": "2026-09-25T21:03:53+09:00",
+      "timeAgo": "15h ago",
+      "topic": "Humanitarian",
+      "country": "Niger",
+      "keywords": [
+        "niger",
+        "signs",
+        "deal"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "To Make Every Life Count, Count Every Life - Tom Frieden | Substack",
+      "desc": "To Make Every Life Count, Count Every Life&nbsp;&nbsp;Tom Frieden | Substack",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HY00tR3BzQVotUFphWTN5YTVDcmxsQ0g3WlFUdHNYQ2hVVFU1M0pnbnhMQ1h4TTNBc0UtQ2puSDlUMThHTDE5NnJGRDFnaHZXMlVucnBUQUFHUnZvZzRacUdQUlJRajgtTmlONjhCQXpFNWtUbE02TGtR?oc=5",
+      "time": "2026-09-25T20:30:45+09:00",
+      "timeAgo": "15h ago",
+      "topic": "Society",
+      "country": "Regional",
+      "keywords": [
+        "make",
+        "every",
+        "life"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
+    },
+    {
+      "title": "Africa: Legal Expert Challenges Britain's Position On Colonial Reparations",
+      "desc": "[Nile Post] A legal expert has challenged arguments that the United Kingdom's present government cannot be held responsible for wrongdoing committed during the …",
+      "url": "https://allafrica.com/stories/202609250149.html",
+      "time": "2026-09-25T20:30:01+09:00",
+      "timeAgo": "15h ago",
+      "topic": "Politics",
+      "country": "Regional",
+      "keywords": [
+        "legal",
+        "expert",
+        "challenges"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Senegal lays first criminal charges over political unrest between 2021 and 2024",
+      "desc": "The charges stem from violent demonstrations between 2021 and 2024 during former President Macky Sall's tenure, which left dozens dead and injured.",
+      "url": "http://www.africanews.com/2026/09/25/senegal-lays-first-criminal-charges-over-political-unrest-between-2021-and-2024/",
+      "time": "2026-09-25T20:18:03+09:00",
+      "timeAgo": "16h ago",
+      "topic": "Politics",
+      "country": "Senegal",
+      "keywords": [
+        "senegal",
+        "lays",
+        "first"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Heavy fighting, internet disruption as Ethiopia conflict rages",
+      "desc": "Ethiopian forces battled overnight to repel an assault by Tigray rebels in the Afar region, a humanitarian source said Friday, with reports of an internet black…",
+      "url": "http://www.africanews.com/2026/09/25/heavy-fighting-internet-disruption-as-ethiopia-conflict-rages/",
+      "time": "2026-09-25T19:35:01+09:00",
+      "timeAgo": "16h ago",
+      "topic": "Conflict",
+      "country": "Ethiopia",
+      "keywords": [
+        "heavy",
+        "fighting",
+        "internet"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Ethiopia, Djibouti, and Dangote to build $660m petroleum pipeline",
+      "desc": "The 120km link, due to operational within 18 months, will connect Damerjog port in Djibouti to a distribution facility in Dewele, Ethiopia.",
+      "url": "http://www.africanews.com/2026/09/25/ethiopia-djibouti-and-dangote-to-build-660m-petroleum-pipeline/",
+      "time": "2026-09-25T19:08:23+09:00",
+      "timeAgo": "17h ago",
+      "topic": "Society",
+      "country": "Ethiopia",
+      "keywords": [
+        "ethiopia",
+        "djibouti",
+        "dangote"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Africa: Nigeria Demands Two Permanent UN Seats, Veto Powers for Africa",
+      "desc": "[Vanguard] Nigeria has demanded at least two permanent seats for Africa on the UN Security Council, with veto powers for as long as the privilege exists.",
+      "url": "https://allafrica.com/stories/202609250116.html",
+      "time": "2026-09-25T19:05:40+09:00",
+      "timeAgo": "17h ago",
+      "topic": "Society",
+      "country": "Nigeria",
+      "keywords": [
+        "nigeria",
+        "demands",
+        "permanent"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Mozambique faces rising drug use as trafficking routes fuel local addiction",
+      "desc": "Hospital admissions linked to drug use rose 38 percent last year to more than 32,280, according to government figures that experts say reflect only a fraction o…",
+      "url": "http://www.africanews.com/2026/09/25/mozambique-faces-rising-drug-use-as-trafficking-routes-fuel-local-addiction/",
+      "time": "2026-09-25T19:02:54+09:00",
+      "timeAgo": "17h ago",
+      "topic": "Politics",
+      "country": "Mozambique",
+      "keywords": [
+        "mozambique",
+        "faces",
+        "rising"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Africa: MMTC Secures Usd4.3bn in Commitments to Expand Smart-City Model Across Africa",
+      "desc": "[Capital FM] Nairobi -- Mwale Medical and Technology City (MMTC) has secured more than USD 4.3 billion in investment commitments to support the expansion of its…",
+      "url": "https://allafrica.com/stories/202609250107.html",
+      "time": "2026-09-25T18:57:12+09:00",
+      "timeAgo": "17h ago",
+      "topic": "Economy",
+      "country": "Kenya",
+      "keywords": [
+        "mmtc",
+        "secures",
+        "commitments"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Morocco election: PAM tops vote as turnout falls and Islamist PJD rebounds",
+      "desc": "But with turnout falling to its lowest level in years, the new administration will also face the challenge of rebuilding political engagement and responding to …",
+      "url": "http://www.africanews.com/2026/09/25/morocco-election-pam-tops-vote-as-turnout-falls-and-islamist-pjd-rebounds/",
+      "time": "2026-09-25T18:44:16+09:00",
+      "timeAgo": "17h ago",
+      "topic": "Politics",
+      "country": "Morocco",
+      "keywords": [
+        "morocco",
+        "election",
+        "tops"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Africa: Ouch! One in Seven Hospital Patients in Africa Suffers Severe Pain",
+      "desc": "[UCT] Being admitted to hospital is supposed to bring relief. But for thousands of patients across Africa, hospital care comes with another burden: severe pain.…",
+      "url": "https://allafrica.com/stories/202609250040.html",
+      "time": "2026-09-25T16:18:06+09:00",
+      "timeAgo": "20h ago",
+      "topic": "Humanitarian",
+      "country": "Regional",
+      "keywords": [
+        "ouch",
+        "seven",
+        "hospital"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Africa: Nigeria Restates Demand for Two Permanent UNSC Seats, Veto Powers for Africa",
+      "desc": "[Premium Times] Mr Shettima said the Council's present configuration no longer reflected contemporary geopolitical realities and weakened the legitimacy of glob…",
+      "url": "https://allafrica.com/stories/202609250022.html",
+      "time": "2026-09-25T15:48:14+09:00",
+      "timeAgo": "20h ago",
+      "topic": "Humanitarian",
+      "country": "Nigeria",
+      "keywords": [
+        "nigeria",
+        "restates",
+        "demand"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Africa: Delegates Walk Out As Netanyahu Addresses Unga",
+      "desc": "[Premium Times] Mr Netanyahu described delegates who walked out as \"moral cowards.\"",
+      "url": "https://allafrica.com/stories/202609250019.html",
+      "time": "2026-09-25T15:46:46+09:00",
+      "timeAgo": "20h ago",
+      "topic": "Conflict",
+      "country": "Regional",
+      "keywords": [
+        "delegates",
+        "walk",
+        "netanyahu"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "DR Congo: Young doctor dies of Ebola as cases surge beyond epicentre",
+      "desc": "Victor Kingombe died at an Ebola treatment centre in Kisangani, three months after Tshopo province first reported cases.",
+      "url": "http://www.africanews.com/2026/09/25/dr-congo-young-doctor-dies-of-ebola-as-cases-surge-beyond-epicentre/",
+      "time": "2026-09-25T15:46:13+09:00",
+      "timeAgo": "20h ago",
+      "topic": "Society",
+      "country": "DRC",
+      "keywords": [
+        "congo",
+        "young",
+        "doctor"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Africa: Africa Cup of Nations Qualifiers Begin With 2025 Champions Still Undecided",
+      "desc": "[RFI] Qualifiers for the 2027 Africa Cup of Nations get underway on Thursday, with a heavyweight clash between Ghana and C&#xF4;te d'Ivoire the pick of the bunc…",
+      "url": "https://allafrica.com/stories/202609250004.html",
+      "time": "2026-09-25T15:37:39+09:00",
+      "timeAgo": "20h ago",
+      "topic": "Sport",
+      "country": "Ghana",
+      "keywords": [
+        "nations",
+        "qualifiers",
+        "begin"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Africa: Africa's Fashion Value Lies In The Stories Only Africans Can Tell",
+      "desc": "[Bird Story Agency] South African designer Wanda Lephoto argues that Africa's competitive advantage in fashion is not only its fibre or factories, but the cultu…",
+      "url": "https://allafrica.com/stories/202609250001.html",
+      "time": "2026-09-25T15:31:40+09:00",
+      "timeAgo": "20h ago",
+      "topic": "Society",
+      "country": "South Africa",
+      "keywords": [
+        "fashion",
+        "value",
+        "lies"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Ethiopian president warns of 'interference' amid renewed Tigray fighting",
+      "desc": "Speaking at the UN General Assembly, Taye Atske Selassie blamed 'external actors' for renewed conflict in the region.",
+      "url": "http://www.africanews.com/2026/09/25/ethiopian-president-warns-of-interference-amid-renewed-tigray-fighting/",
+      "time": "2026-09-25T14:24:49+09:00",
+      "timeAgo": "21h ago",
+      "topic": "Politics",
+      "country": "Ethiopia",
+      "keywords": [
+        "ethiopian",
+        "president",
+        "warns"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "AFC/M23 yemeye ko ubutare buca mu Rwanda ariko ivuga ko buhaca burengana - bbc.com",
+      "desc": "AFC/M23 yemeye ko ubutare buca mu Rwanda ariko ivuga ko buhaca burengana&nbsp;&nbsp;bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45MS11NFBSOUVvYlk0RjVYNDlxUldNand5aFFiVnFMUGJBcDdTbGItLXF6czI3QzZXZ1JGN3dfMFU1QVY4NHVGT0FfdDlYR2szU3J6TE42RUU?oc=5",
+      "time": "2026-09-25T13:16:01+09:00",
+      "timeAgo": "23h ago",
+      "topic": "Society",
+      "country": "Rwanda",
+      "keywords": [
+        "yemeye",
+        "ubutare",
+        "buca"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
     },
     {
       "title": "Sway Dasafo, Rapper Who Opened New Doors for Global Artists, Dies at 44",
       "desc": "He won widespread acclaim as an unsigned artist, then used his fame to help other musicians in Britain and in Ghana break into the industry.",
       "url": "https://www.nytimes.com/2026/09/24/arts/music/derek-safo-sway-dead.html",
       "time": "2026-09-25T05:34:04+09:00",
-      "timeAgo": "6h ago",
+      "timeAgo": "1d ago",
       "topic": "Society",
       "country": "Ghana",
       "keywords": [
@@ -83,7 +866,7 @@
       "desc": "South Africans in Pretoria are hoping to have cooked up a new Guinness World Record. Hundreds gathered on Thursday to fire up their grills and attempt the large…",
       "url": "http://www.africanews.com/2026/09/24/pretoria-hosts-massive-barbecue-world-record-attempt/",
       "time": "2026-09-25T04:57:39+09:00",
-      "timeAgo": "7h ago",
+      "timeAgo": "1d ago",
       "topic": "Society",
       "country": "South Africa",
       "keywords": [
@@ -95,27 +878,11 @@
       "badge": "b-an"
     },
     {
-      "title": "What’s triggered the latest violence in Ethiopia?",
-      "desc": "Tigrayan forces say they are in a &#039;full-blown war&#039; with the army.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss",
-      "time": "2026-09-25T04:34:53+09:00",
-      "timeAgo": "7h ago",
-      "topic": "Conflict",
-      "country": "Ethiopia",
-      "keywords": [
-        "what",
-        "triggered",
-        "latest"
-      ],
-      "src": "Al Jazeera",
-      "badge": "b-aj"
-    },
-    {
       "title": "Moroccan voters call for action after election results",
       "desc": "Morocco’s ruling coalition has dominated parliamentary elections marked by low turnout and a stronger showing from the Islamist opposition. But beyond the resul…",
       "url": "http://www.africanews.com/2026/09/24/moroccan-voters-call-for-action-after-election-results/",
       "time": "2026-09-25T03:46:57+09:00",
-      "timeAgo": "8h ago",
+      "timeAgo": "1d ago",
       "topic": "Politics",
       "country": "Morocco",
       "keywords": [
@@ -127,75 +894,11 @@
       "badge": "b-an"
     },
     {
-      "title": "Africa: Africa's Remittance Opportunity Depends On Stronger Institutions",
-      "desc": "[Liberian Observer] Africa received an estimated US$91.1 billion in remittances in 2023, more than it attracted in official development assistance or foreign di…",
-      "url": "https://allafrica.com/stories/202609240590.html",
-      "time": "2026-09-25T02:25:45+09:00",
-      "timeAgo": "9h ago",
-      "topic": "Society",
-      "country": "Regional",
-      "keywords": [
-        "remittance",
-        "opportunity",
-        "depends"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "IHCRI-Rwanda Announces Partnership with RBC for London Global Cancer Week 2026 - Oncodaily",
-      "desc": "IHCRI-Rwanda Announces Partnership with RBC for London Global Cancer Week 2026&nbsp;&nbsp;Oncodaily",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPaEFXWklPRTZKYmlLRTNJZ21LVngyTVRCb3c2U3FFVU1MQ1lMRl9TSFc0aUtNclhDTkNXNTVjeGh5TlZzdXR0UTJlV29FNDFRM0VtR1ZIcTc0T3hr?oc=5",
-      "time": "2026-09-25T02:16:28+09:00",
-      "timeAgo": "10h ago",
-      "topic": "Society",
-      "country": "Rwanda",
-      "keywords": [
-        "ihcri",
-        "rwanda",
-        "announces"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
-      "title": "Africa: Ethiopia Puts Sea Access On Global Agenda As President Taye Addresses UN",
-      "desc": "[ENA] Addis Ababa -- Ethiopia has placed its pursuit of reliable maritime access firmly on the global diplomatic agenda, with President Taye Atske-Selassie tell…",
-      "url": "https://allafrica.com/stories/202609240583.html",
-      "time": "2026-09-25T02:12:50+09:00",
-      "timeAgo": "10h ago",
-      "topic": "Politics",
-      "country": "Ethiopia",
-      "keywords": [
-        "ethiopia",
-        "puts",
-        "access"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "Africa: Ethiopia's Global Horizon - Championing Africa's Voice and Reliable Sea Access",
-      "desc": "[ENA] Addis Ababa -- Ethiopia has used the 81st United Nations General Assembly to put a broader strategic question before the international community: can a gl…",
-      "url": "https://allafrica.com/stories/202609240581.html",
-      "time": "2026-09-25T02:12:49+09:00",
-      "timeAgo": "10h ago",
-      "topic": "Sport",
-      "country": "Ethiopia",
-      "keywords": [
-        "ethiopia",
-        "global",
-        "horizon"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
       "title": "Dangote’s Big Energy Expansion: From Nigerian Refinery to African Powerhouse {Business Africa}",
       "desc": "Dangote is expanding its energy business across Africa, putting local capital and cross-border infrastructure at the centre of the continent’s refining future.\n…",
       "url": "http://www.africanews.com/2026/09/24/dangotes-big-energy-expansion-from-nigerian-refinery-to-african-powerhouse-business-africa/",
       "time": "2026-09-25T01:34:30+09:00",
-      "timeAgo": "10h ago",
+      "timeAgo": "1d ago",
       "topic": "Economy",
       "country": "Nigeria",
       "keywords": [
@@ -211,7 +914,7 @@
       "desc": "It is Nigeria’s fourth major meth lab bust since May, with authorities saying all four operations were linked to Mexican nationals.",
       "url": "http://www.africanews.com/2026/09/24/nigeria-busts-another-mexican-cartel-linked-meth-lab/",
       "time": "2026-09-25T01:34:24+09:00",
-      "timeAgo": "10h ago",
+      "timeAgo": "1d ago",
       "topic": "Society",
       "country": "Nigeria",
       "keywords": [
@@ -223,27 +926,11 @@
       "badge": "b-an"
     },
     {
-      "title": "Nigeria and US sign deal to increase mining investment",
-      "desc": "Nigeria and the United States on Wednesday signed a framework agreement to \"deepen American investment\" in the West African's country mining sector. Nigeria say…",
-      "url": "http://www.africanews.com/2026/09/24/nigeria-and-us-sign-deal-to-increase-mining-investment/",
-      "time": "2026-09-25T01:25:39+09:00",
-      "timeAgo": "10h ago",
-      "topic": "Economy",
-      "country": "Nigeria",
-      "keywords": [
-        "nigeria",
-        "sign",
-        "deal"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
       "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
       "desc": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
       "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-25T00:37:45+09:00",
-      "timeAgo": "11h ago",
+      "timeAgo": "1d ago",
       "topic": "Conflict",
       "country": "Ethiopia",
       "keywords": [
@@ -259,7 +946,7 @@
       "desc": "Early results in legislative elections showed the lowest voter turnout in nearly two decades. Economic frustrations have grown as Morocco is set to co-host the …",
       "url": "https://www.nytimes.com/2026/09/24/world/africa/morocco-election-results-youth.html",
       "time": "2026-09-25T00:14:08+09:00",
-      "timeAgo": "12h ago",
+      "timeAgo": "1d ago",
       "topic": "Politics",
       "country": "Morocco",
       "keywords": [
@@ -275,7 +962,7 @@
       "desc": "Ethiopia’s army says its forces have killed 272 Tigrayan fighters and wounded 260 during a counter-offensive in Amhara. The press says the figures could not be …",
       "url": "http://www.africanews.com/2026/09/24/fighting-intensifies-in-northern-ethiopia-as-tigray-rebels-declare-full-blown-war/",
       "time": "2026-09-25T00:04:07+09:00",
-      "timeAgo": "12h ago",
+      "timeAgo": "1d ago",
       "topic": "Conflict",
       "country": "Ethiopia",
       "keywords": [
@@ -287,122 +974,11 @@
       "badge": "b-an"
     },
     {
-      "title": "Niger signs deal with Australian group to relaunch uranium project",
-      "desc": "Niger authorities said Wednesday they have signed a new agreement with the Madaouela Mining Company, which is 60% owned by the Australian Atomic Eagle group, to…",
-      "url": "http://www.africanews.com/2026/09/24/niger-signs-deal-with-australian-group-to-relaunch-uranium-project/",
-      "time": "2026-09-24T23:58:56+09:00",
-      "timeAgo": "12h ago",
-      "topic": "Humanitarian",
-      "country": "Niger",
-      "keywords": [
-        "niger",
-        "signs",
-        "deal"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "Africa: Anglican Church in Southern Africa Rejects Proposals for Special Prayers for LGBTQIA+ Members",
-      "desc": "[ACSA] The ruling body of the Anglican Church of Southern Africa has rejected proposals  for  special  prayers to be developed for  same-sex couples in the  chu…",
-      "url": "https://allafrica.com/stories/202609240412.html",
-      "time": "2026-09-24T23:01:34+09:00",
-      "timeAgo": "13h ago",
-      "topic": "Politics",
-      "country": "Regional",
-      "keywords": [
-        "anglican",
-        "church",
-        "southern"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "Africa: Healthcap Africa Urges Pension Funds to Finance Healthcare",
-      "desc": "[This Day] As international donor funding from USAID and other foreign assistance programs for healthcare continues to shrink, leading financial stakeholders co…",
-      "url": "https://allafrica.com/stories/202609240402.html",
-      "time": "2026-09-24T22:48:43+09:00",
-      "timeAgo": "13h ago",
-      "topic": "Economy",
-      "country": "Regional",
-      "keywords": [
-        "healthcap",
-        "urges",
-        "pension"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "Africa: Thousands Miss Out On 2027 Comrades Entries",
-      "desc": "[Scrolla] A total of 42,802 runners applied for 14,519 general Comrades places, leaving 28,283 without an entry.   Unsuccessful runners stay in the ballot and c…",
-      "url": "https://allafrica.com/stories/202609240387.html",
-      "time": "2026-09-24T22:46:33+09:00",
-      "timeAgo": "13h ago",
-      "topic": "Society",
-      "country": "Regional",
-      "keywords": [
-        "thousands",
-        "miss",
-        "comrades"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "Africa: Africa Demands Action",
-      "desc": "[New Era] New York -- African leaders and development partners have called for urgent action to turn the United Nations Pact for the Future from promises into m…",
-      "url": "https://allafrica.com/stories/202609240382.html",
-      "time": "2026-09-24T22:44:34+09:00",
-      "timeAgo": "13h ago",
-      "topic": "Politics",
-      "country": "Regional",
-      "keywords": [
-        "demands",
-        "action"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "Africa: AIG-Imoukhuede At 60 - Building a Critical Mass to Transform Africa's Public Sector",
-      "desc": "[Premium Times] The important word is not simply \"leaders\" but \"mass.\"",
-      "url": "https://allafrica.com/stories/202609240347.html",
-      "time": "2026-09-24T22:15:25+09:00",
-      "timeAgo": "14h ago",
-      "topic": "Politics",
-      "country": "Regional",
-      "keywords": [
-        "imoukhuede",
-        "building",
-        "critical"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "Africa: On Germany's Political Crisis and Africa's Concerns",
-      "desc": "[Independent (Kampala)] Germany is currently undergoing a profound political crisis. It is a crisis that goes against the very ethos of how Germany's politics u…",
-      "url": "https://allafrica.com/stories/202609240340.html",
-      "time": "2026-09-24T22:03:53+09:00",
-      "timeAgo": "14h ago",
-      "topic": "Society",
-      "country": "Uganda",
-      "keywords": [
-        "germany",
-        "political",
-        "crisis"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
       "title": "Africa: All of Africa Today - September 24, 2026",
       "desc": "[allAfrica] Monrovia -- CAR Rebel Commander Convicted of Crimes Against Humanity",
       "url": "https://allafrica.com/stories/202609240254.html",
       "time": "2026-09-24T21:05:23+09:00",
-      "timeAgo": "15h ago",
+      "timeAgo": "1d ago",
       "topic": "Conflict",
       "country": "Regional",
       "keywords": [
@@ -417,7 +993,7 @@
       "desc": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick, research reveals.",
       "url": "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-24T20:42:42+09:00",
-      "timeAgo": "15h ago",
+      "timeAgo": "1d ago",
       "topic": "Society",
       "country": "Regional",
       "keywords": [
@@ -429,91 +1005,11 @@
       "badge": "b-bbc"
     },
     {
-      "title": "Africa: Nandi-Ndaitwah Wants Woman As UN Chief",
-      "desc": "[Namibian] President Netumbo Nandi-Ndaitwah has called for a woman to be elected as the next United Nations secretary general, saying the organisation's leaders…",
-      "url": "https://allafrica.com/stories/202609240203.html",
-      "time": "2026-09-24T20:30:39+09:00",
-      "timeAgo": "15h ago",
-      "topic": "Politics",
-      "country": "Namibia",
-      "keywords": [
-        "nandi",
-        "ndaitwah",
-        "wants"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "Ethiopia's federalism dilemma: Why regional power keeps fuelling conflict",
-      "desc": "Tigrayan authorities say they are responding to attacks by federal forces, while the federal government has described the Tigrayan military action as an offensi…",
-      "url": "http://www.africanews.com/2026/09/24/ethiopias-federalism-dilemma-why-regional-power-keeps-fuelling-conflict/",
-      "time": "2026-09-24T20:24:20+09:00",
-      "timeAgo": "15h ago",
-      "topic": "Politics",
-      "country": "Ethiopia",
-      "keywords": [
-        "ethiopia",
-        "federalism",
-        "dilemma"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "Morocco’s PAM leads parliamentary election with turnout at two-decade low",
-      "desc": "The result will determine which party gets the first opportunity to form a government, with the prime minister appointed by King Mohammed VI from the party that…",
-      "url": "http://www.africanews.com/2026/09/24/moroccos-pam-leads-parliamentary-election-with-turnout-at-two-decade-low/",
-      "time": "2026-09-24T20:08:02+09:00",
-      "timeAgo": "16h ago",
-      "topic": "Politics",
-      "country": "Morocco",
-      "keywords": [
-        "morocco",
-        "leads",
-        "parliamentary"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "Africa: The Takeaway - UN General Assembly Debate Day 2",
-      "desc": "[UN News] This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renew…",
-      "url": "https://allafrica.com/stories/202609240167.html",
-      "time": "2026-09-24T19:36:06+09:00",
-      "timeAgo": "16h ago",
-      "topic": "Conflict",
-      "country": "Regional",
-      "keywords": [
-        "takeaway",
-        "general",
-        "assembly"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "Africa: Money, Disinformation Threaten Africa's Democratic Gains - NPC",
-      "desc": "[Ghanaian Times] The Chairman of the National Peace Council (NPC), Bishop Emanuel Kofi Fianu, has warned that the growing commercialisation of politics, misuse …",
-      "url": "https://allafrica.com/stories/202609240157.html",
-      "time": "2026-09-24T19:28:40+09:00",
-      "timeAgo": "16h ago",
-      "topic": "Conflict",
-      "country": "Ghana",
-      "keywords": [
-        "money",
-        "disinformation",
-        "threaten"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
       "title": "South Sudan's president dissolves government ahead of country's first elections",
       "desc": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed.",
       "url": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-24T19:21:06+09:00",
-      "timeAgo": "16h ago",
+      "timeAgo": "1d ago",
       "topic": "Politics",
       "country": "Sudan",
       "keywords": [
@@ -525,75 +1021,11 @@
       "badge": "b-bbc"
     },
     {
-      "title": "Kenya's Ruto calls for permanent African representation on UN Security Council",
-      "desc": "In his address to the UN General Assembly on Wednesday, William Ruto lamented Africa's exclusion from permanent representation on the UN Security Council, despi…",
-      "url": "http://www.africanews.com/2026/09/24/kenyas-ruto-calls-for-permanent-african-representation-on-un-security-council/",
-      "time": "2026-09-24T19:04:43+09:00",
-      "timeAgo": "17h ago",
-      "topic": "Society",
-      "country": "Kenya",
-      "keywords": [
-        "kenya",
-        "ruto",
-        "calls"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "Africa: Ruto Challenges Post-War Global Order, Renews Call for Permanent African Voice At UN",
-      "desc": "[Capital FM] Nairobi -- President William Ruto has challenged the post-World War II global order, arguing that the institutions created in 1945 no longer reflec…",
-      "url": "https://allafrica.com/stories/202609240079.html",
-      "time": "2026-09-24T18:12:44+09:00",
-      "timeAgo": "18h ago",
-      "topic": "Politics",
-      "country": "Kenya",
-      "keywords": [
-        "ruto",
-        "challenges",
-        "post"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "Africa: UN Needs a Total Overhaul, Not Just Reforming Council",
-      "desc": "[New Times] UN Secretary-General Ant&#xF3;nio Guterres has once again put an uncomfortable truth before the world: Africa remains the only continent without per…",
-      "url": "https://allafrica.com/stories/202609240055.html",
-      "time": "2026-09-24T17:59:14+09:00",
-      "timeAgo": "18h ago",
-      "topic": "Society",
-      "country": "Regional",
-      "keywords": [
-        "needs",
-        "total",
-        "overhaul"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "Africa: Inside Bandung, Where Indonesia's Africa Story Began",
-      "desc": "[Capital FM] Bandung, Indonesia -- The chairs are still there.",
-      "url": "https://allafrica.com/stories/202609240052.html",
-      "time": "2026-09-24T17:58:08+09:00",
-      "timeAgo": "18h ago",
-      "topic": "Society",
-      "country": "Regional",
-      "keywords": [
-        "inside",
-        "bandung",
-        "where"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
       "title": "Tigrayan Forces Mobilize Against the Central Government in Ethiopia",
       "desc": "Tigray People’s Liberation Front seized a key airport in the city of Mekelle, as fears grow of a possible return to a full-scale war.",
       "url": "https://www.nytimes.com/2026/09/23/world/africa/ethiopia-tigray-airport.html",
       "time": "2026-09-24T16:30:03+09:00",
-      "timeAgo": "19h ago",
+      "timeAgo": "1d ago",
       "topic": "Politics",
       "country": "Ethiopia",
       "keywords": [
@@ -605,43 +1037,11 @@
       "badge": "b-nyt"
     },
     {
-      "title": "Africa: Vaccination Rates Are Falling in Africa, but a New Strategy Aims to Turn Things Around. Five Things It Needs to Get Right",
-      "desc": "[The Conversation Africa] Africa has reached an important moment in its immunisation journey. Coverage is not rising fast enough to keep pace with population gr…",
-      "url": "https://allafrica.com/stories/202609240004.html",
-      "time": "2026-09-24T16:24:28+09:00",
-      "timeAgo": "19h ago",
-      "topic": "Society",
-      "country": "Regional",
-      "keywords": [
-        "vaccination",
-        "rates",
-        "falling"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "Morocco's legistlative elections marked by record-low voter turnout",
-      "desc": "Provisional results published on Thursday show the centre-right Authenticity and Modernity Party has taken 95 seats in the 395-seats in parliament.",
-      "url": "http://www.africanews.com/2026/09/24/moroccos-legistlative-elections-marked-by-record-low-voter-turnout/",
-      "time": "2026-09-24T16:04:14+09:00",
-      "timeAgo": "20h ago",
-      "topic": "Politics",
-      "country": "Morocco",
-      "keywords": [
-        "morocco",
-        "legistlative",
-        "elections"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "Rwanda’s most important bank joins China’s payment network as Africa’s de-dollarisation push grows - africa.businessinsider.com",
-      "desc": "Rwanda’s most important bank joins China’s payment network as Africa’s de-dollarisation push grows&nbsp;&nbsp;africa.businessinsider.com",
+      "title": "Rwanda’s most important bank joins China’s payment network as Africa’s de-dollarisation push grows - Business Insider Africa",
+      "desc": "Rwanda’s most important bank joins China’s payment network as Africa’s de-dollarisation push grows&nbsp;&nbsp;Business Insider Africa",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcGVLWXdubXpFZ3JsdGY2SkRETWpvN0NjQUxlTXJzRFdIRzNWTy1LNTVKcmVpeGVLTHo1dnRsZjhkVmtXN0NLSGJWWUVNeDdfZ3IxRUFueElITUVuTUxvWVJkZlNQTmJjUGtoZm9pU2J6NDJkaDgybGpVOTVnMjBUdE5lZVQ2RGxobmc2Q0hxaWRObHlhOEUzM3J1MFd0Yk9aZUl6QUQxYmJ2MmRUdm5IazMtbGVJekJDUDloaDA2TzRMcl9qMmZWdUtPemdGZ1NJbXo3UXUzbHo?oc=5",
       "time": "2026-09-24T16:00:27+09:00",
-      "timeAgo": "20h ago",
+      "timeAgo": "1d ago",
       "topic": "Economy",
       "country": "Rwanda",
       "keywords": [
@@ -653,91 +1053,27 @@
       "badge": "b-rw"
     },
     {
-      "title": "UK court charges doctor for offenses linked to 1994 genocide in Rwanda - Jurist.org",
-      "desc": "UK court charges doctor for offenses linked to 1994 genocide in Rwanda&nbsp;&nbsp;Jurist.org",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHY5TEZIN1BrTFMwZzJLdVRUbWE5MU5GMFk2ang5WVlqYW1EV292ZUxha3ZFbTlscWtoTVhvQjk1MXVKRzlKRVhEcVVLTklYYU1JUS1fdGRoVlBzeGxmNnZOLUlRazRFanV2OVgycFZVOXh3VEVYSGFEeFpqT3htSmxTMzVxS3ZoVGVzc0Vkc1laeHBjRFY1c2d3aEs1Z0tQa0ZTdXowRjFFVG1RVWZEUk84V3N6UQ?oc=5",
-      "time": "2026-09-24T12:40:39+09:00",
-      "timeAgo": "23h ago",
-      "topic": "Society",
-      "country": "Rwanda",
-      "keywords": [
-        "court",
-        "charges",
-        "doctor"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
-      "title": "Morocco’s opposition leader casts vote in parliamentary election",
-      "desc": "The leader of Morocco's opposition PPS (Party of Progress and Socialism) arrived at a polling station in Rabat on Wednesday to vote in the parliamentary electio…",
-      "url": "http://www.africanews.com/2026/09/23/moroccos-opposition-leader-casts-vote-in-parliamentary-election/",
-      "time": "2026-09-24T03:47:48+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Politics",
-      "country": "Morocco",
-      "keywords": [
-        "morocco",
-        "opposition",
-        "leader"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "Ebola surveillance expands beyond DR Congo borders as IOM steps up efforts",
-      "desc": "As the Ebola outbreak in the DRC reaches unprecedented levels, disease surveillance is spreading beyond the country's borders. The International Organization fo…",
-      "url": "http://www.africanews.com/2026/09/23/ebola-surveillance-expands-beyond-dr-congo-borders-as-iom-steps-up-efforts/",
-      "time": "2026-09-24T01:49:39+09:00",
-      "timeAgo": "1d ago",
+      "title": "Qatar-brokered pact restores Rwanda-Belgium relations amid ongoing security fallout in DRC’s mineral-rich Kivu region - Business Insider Africa",
+      "desc": "Qatar-brokered pact restores Rwanda-Belgium relations amid ongoing security fallout in DRC’s mineral-rich Kivu region&nbsp;&nbsp;Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV1lzMFBibjJ2MG5JVGExbVFQM0hpS2FaM0k3S2dxcndQampOSm53UklCc0tEZzR0bWJsQ0lKcEhKS1hVZHVRNmNERC1QZWtsenprUXNsRjFBaXdVRUt0Y2NFWV9pYXpLT2ZvMFp3dFdDUGlvcVFNS3JMZWRxZkQyV254U0ZqM2o1QTlhR3Jld0xvRl9zUE5iX0hRNUZJYi10STNLM2pBdGVfc2xDYVlOVHYzQ25vT3NYZlY2SE4wSFBpOXB2cXVib1RHZ0FLd3puWjFjU3BzNGpBdw?oc=5",
+      "time": "2026-09-24T00:53:14+09:00",
+      "timeAgo": "2d ago",
       "topic": "Society",
       "country": "DRC",
       "keywords": [
-        "ebola",
-        "surveillance",
-        "expands"
+        "qatar",
+        "brokered",
+        "pact"
       ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "Analyst flags uncertainty over South Sudan polls after government dismissal",
-      "desc": "Uncertainty lingers over South Sudan's ability to hold elections in December, with persisting insecurity and lack of political dialogue remaining potential obst…",
-      "url": "http://www.africanews.com/2026/09/23/analyst-flags-uncertainty-over-south-sudan-polls-after-government-dismissal/",
-      "time": "2026-09-24T01:16:41+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Politics",
-      "country": "Sudan",
-      "keywords": [
-        "analyst",
-        "flags",
-        "uncertainty"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "Ethiopia: Tigray forces seize airports as fighting spreads to Afar",
-      "desc": "Tigrayan rebels in northern Ethiopia seized control of airports and battled federal troops in the neighbouring Afar region, multiple sources told AFP on Wednesd…",
-      "url": "http://www.africanews.com/2026/09/23/ethiopia-tigray-forces-seize-airports-as-fighting-spreads-to-afar/",
-      "time": "2026-09-24T01:15:48+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Conflict",
-      "country": "Ethiopia",
-      "keywords": [
-        "ethiopia",
-        "tigray",
-        "forces"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
+      "src": "Rwanda",
+      "badge": "b-rw"
     },
     {
       "title": "Spotlight on new coaches as road to Afcon 2027 begins",
       "desc": "Patrick Vieira and Herve Renard are among the high-profile managerial arrivals as the qualification campaign for the 2027 Africa Cup of Nations gets under way.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwn74ppgmeyjo?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-24T00:30:51+09:00",
-      "timeAgo": "1d ago",
+      "timeAgo": "2d ago",
       "topic": "Sport",
       "country": "Regional",
       "keywords": [
@@ -749,75 +1085,11 @@
       "badge": "b-bbc"
     },
     {
-      "title": "Tanzanian opposition leader urges courageous verdict in treason trial",
-      "desc": "Chadema leader, Tundu Lissu, has pleaded not guilty saying the charges were politically motivated.",
-      "url": "http://www.africanews.com/2026/09/23/tanzanian-opposition-leader-urges-courageous-verdict-in-treason-trial/",
-      "time": "2026-09-24T00:24:49+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Politics",
-      "country": "Tanzania",
-      "keywords": [
-        "tanzanian",
-        "opposition",
-        "leader"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "Spiro lands $18m to scale e-motorcycle fleets in Uganda and Rwanda - Zag Daily",
-      "desc": "Spiro lands $18m to scale e-motorcycle fleets in Uganda and Rwanda&nbsp;&nbsp;Zag Daily",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT1lCMlZFTGUzT1pQeGRjV2xLWDEzLUZLTlJpUFk3TXpGcUdKbE1TNVZwME1ZQTdDWnYyRTlpdW5pcmRqUDdneGZiV1NfZ1pXVVY5dUxERER5dDJiaXRBa1Brd2R6NlFUb2ZDQ01LMkRMMnVRU05GN1YzdHI1MWF1SjUxU2twSUVyN19tLVRWZkE3dGxYQU5waHlRWWlTb19QRktB?oc=5",
-      "time": "2026-09-23T23:54:45+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Society",
-      "country": "Uganda",
-      "keywords": [
-        "spiro",
-        "lands",
-        "scale"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
-      "title": "South Sudan's election commission urges peaceful electoral process",
-      "desc": "Its chairperson called on politicians and parties to convert their political ideas into 'ballot paper and not bullets'.",
-      "url": "http://www.africanews.com/2026/09/23/south-sudans-election-commission-urges-peaceful-electoral-process/",
-      "time": "2026-09-23T23:20:18+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Politics",
-      "country": "Sudan",
-      "keywords": [
-        "south",
-        "sudan",
-        "election"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "Eleven killed in mass shooting at house in South Africa",
-      "desc": "One of those killed is believed to be a pregnant woman, police said.",
-      "url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-09-23T23:02:55+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Conflict",
-      "country": "South Africa",
-      "keywords": [
-        "eleven",
-        "killed",
-        "mass"
-      ],
-      "src": "BBC",
-      "badge": "b-bbc"
-    },
-    {
       "title": "Watch: Why is the UK reviewing its Chagos Islands deal?",
       "desc": "The UK is reviewing its deal to hand over the Chagos Islands to Mauritius, the defence secretary has said.",
       "url": "https://www.bbc.co.uk/news/videos/cqdr74vn85ndo?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-23T22:49:39+09:00",
-      "timeAgo": "1d ago",
+      "timeAgo": "2d ago",
       "topic": "Humanitarian",
       "country": "Mauritius",
       "keywords": [
@@ -829,43 +1101,11 @@
       "badge": "b-bbc"
     },
     {
-      "title": "Morocco votes in parliamentary election amid youth discontent",
-      "desc": "Moroccans are voting today in parliamentary elections dominated by concerns over the cost of living, jobs and inequality, with many voters also expressing deep …",
-      "url": "http://www.africanews.com/2026/09/23/morocco-votes-in-parliamentary-election-amid-youth-discontent/",
-      "time": "2026-09-23T22:33:51+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Politics",
-      "country": "Morocco",
-      "keywords": [
-        "morocco",
-        "votes",
-        "parliamentary"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "British-Sudanese author writes African history book aimed at children",
-      "desc": "The adult edition of Zeinab Badawi’s book \"An African History of Africa: From the Dawn of Humanity to Independence\" has sold more the 110,000 copies.",
-      "url": "http://www.africanews.com/2026/09/23/british-sudanese-author-writes-african-history-book-aimed-at-children/",
-      "time": "2026-09-23T22:12:22+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Society",
-      "country": "Regional",
-      "keywords": [
-        "british",
-        "sudanese",
-        "author"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
       "title": "Africa: All of Africa Today - September 23, 2026",
       "desc": "[allAfrica] Monrovia -- UN Chief Says Security Council Remains 'Unjust' Without Permanent African Seat",
       "url": "https://allafrica.com/stories/202609230256.html",
       "time": "2026-09-23T21:14:16+09:00",
-      "timeAgo": "1d ago",
+      "timeAgo": "2d ago",
       "topic": "Society",
       "country": "Regional",
       "keywords": [
@@ -876,27 +1116,11 @@
       "badge": "b-aa"
     },
     {
-      "title": "South Africa mass shooting leaves 11 dead as police search for three attackers",
-      "desc": "Three shooters killed at least 11 people, including a woman who was believed to be pregnant, in an attack at a house party in South Africa, police said Wednesda…",
-      "url": "http://www.africanews.com/2026/09/23/south-africa-mass-shooting-leaves-11-dead-as-police-search-for-three-attackers/",
-      "time": "2026-09-23T21:09:34+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Conflict",
-      "country": "South Africa",
-      "keywords": [
-        "south",
-        "mass",
-        "shooting"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
       "title": "Rwanda’s Top Bank Joins Yuan Link as Africa-China Trade Grows - Bloomberg.com",
       "desc": "Rwanda’s Top Bank Joins Yuan Link as Africa-China Trade Grows&nbsp;&nbsp;Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeTZTQTNYa3dCWXNUd2dtS29zUGZmMU5raVNMUmtTeGdXQkVqTkJhTGxUanJ2WkRPdWpXM2tyOGlNUEhjeXpSVDRVUTFkTEV5VmhQYmZyZUdGdjFjaWFzdkVIaUNLbXIweDhvNmtVMTRLYkZ4dFZnM2c0czZod1lOUUVPMmp5ai1iTkRHS25lOXhwejVTbl92MVp2Y0lpWDgycWxWVWh3aEFFaWZVcEV1NU9n?oc=5",
       "time": "2026-09-23T19:41:57+09:00",
-      "timeAgo": "1d ago",
+      "timeAgo": "2d ago",
       "topic": "Economy",
       "country": "Rwanda",
       "keywords": [
@@ -912,7 +1136,7 @@
       "desc": "Unemployment and poor public services fueled the border crisis at Ceuta and Gen Z protests, but frustrated young people may stay away from the polls.",
       "url": "https://www.nytimes.com/2026/09/23/world/africa/morocco-election-youth-frustration.html",
       "time": "2026-09-23T19:08:37+09:00",
-      "timeAgo": "1d ago",
+      "timeAgo": "2d ago",
       "topic": "Politics",
       "country": "Morocco",
       "keywords": [
@@ -928,7 +1152,7 @@
       "desc": "Former Afcon winner Segun Odegbami has slammed those running Nigerian football after the country missed out on the men's and women's World Cups.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmrer1vexl5jo?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-23T19:00:43+09:00",
-      "timeAgo": "1d ago",
+      "timeAgo": "2d ago",
       "topic": "Sport",
       "country": "Nigeria",
       "keywords": [
@@ -944,7 +1168,7 @@
       "desc": "Qatar says ‘no alternative to diplomacy’ as Belgium and Rwanda restore ties&nbsp;&nbsp;Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ1BMUG1rQU03LW9pQXdrakxPYy01NWVVRFFGWTFmbTIzWEY2eW5lRzRVUllaZnc4OGNYNzJIWlA5SHJYTERJNF9sdVlvdkN4ZjlodG0xNW1IeklrQXd0WmpzMDVDNzVxUVlGY2o0SGducFR6NXF2V3Z6cGZaVzZXeVFkWE9oVVZYV3dXcklScUhkbGxUYVdENENyVUxTM3hxb2VXZnkxS3lJQmNFaWZ6WTZPbHHSAboBQVVfeXFMTVZncWMzdENsSlpHYmYxZzlmRmlzOWFmTnJwTG9vY0wxRDJLWE52RGdFOU8ycXFQZDJiemZQUHVLeFctUUd6QmFpaDRJWVhVeDZzLWJ5N18xUzFiNTJacFBheVYyR05wbVoyMHpEMWl2U2lfT2NtT2FRcGVjall3b3dlclhMVWREVDBwRGJnUzVIZThBSzlOeTIwMk80Z1FCR2xaajhzNGdTc0JoemM1WTZIamtWMkpicGxR?oc=5",
       "time": "2026-09-23T17:55:10+09:00",
-      "timeAgo": "1d ago",
+      "timeAgo": "2d ago",
       "topic": "Society",
       "country": "Rwanda",
       "keywords": [
@@ -956,27 +1180,11 @@
       "badge": "b-rw"
     },
     {
-      "title": "AFC/M23 yahakanye ko yishe abacukuzi ikanajana ubutare mu Rwanda - BBC",
-      "desc": "AFC/M23 yahakanye ko yishe abacukuzi ikanajana ubutare mu Rwanda&nbsp;&nbsp;BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXSmptQ3FwWGNFcmlja24zclY2Y1d1QW8wOEVvQUFlQVZRbi1ObE5wbTNWWmdvUzFxZEJJaG1pRnNMMUgwdFRxb01IdDZ6OW1rdGZsOHRULU0?oc=5",
-      "time": "2026-09-23T13:59:08+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Society",
-      "country": "Rwanda",
-      "keywords": [
-        "yahakanye",
-        "yishe",
-        "abacukuzi"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
       "title": "Man charged over Rwanda genocide in first for U.K. - The Washington Post",
-      "desc": "Man charged over Rwanda genocide in first for U.K.&nbsp;&nbsp;The Washington PostEx-Rwandan official appears at UK trial over 1994 genocide&nbsp;&nbsp;Al Jazeer…",
+      "desc": "Man charged over Rwanda genocide in first for U.K.&nbsp;&nbsp;The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFdybkkxdU9kMklzNkFFOVdWXzBuRTAwQURvaVp2a2Z1MkFKNFM5c1JzZ29iaFRYUFRqTnJEUlRtaFd0Q1hMWmczRVZ0ZU5yNzdFSmFrNW9fOEhKaDIxOE1aZl9wWXd3QVBpY002UnB4azlBal82RmFYZXdCTWFRZXRicERBUU5lbHhPZWhZZHNqdkhJ?oc=5",
       "time": "2026-09-23T11:06:53+09:00",
-      "timeAgo": "2d ago",
+      "timeAgo": "3d ago",
       "topic": "Society",
       "country": "Rwanda",
       "keywords": [
@@ -988,27 +1196,11 @@
       "badge": "b-rw"
     },
     {
-      "title": "Former colleagues recall new Tooro King’s time in Rwanda| The New Times - The New Times",
-      "desc": "Former colleagues recall new Tooro King’s time in Rwanda| The New Times&nbsp;&nbsp;The New Times",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVmZlQ1FmRXBxS1BaNktPd2pjMXg4LUdLNlRVdi1KTWZsdnBhbG9QUTh3Q0xYaFhhUjlscGw4R3kyalJ0SmpLUjdYSHU3OGhZLWMwVnQ1RldrNEw5SUp5QVFWWVd4SG9XcVB6WGJUcWktbmhwQ0JZbHRrTUFZNG8wQ2Z3V3RLOHhGTWgtXzg5ZGFGbXJ5WjB4MmxEb2lfLWVqdXR2Y0JaRXVmQlc1UllPanNKaDV6d9IBuwFBVV95cUxQRUdHY3lpUEVEZlVyQjM1V3VERktZWTZpZnZuSnFxc1pWYXByU3huQmRMdnREQWxBaGdxNnRfaGEtMDZvTEc5Ukc0cTdtbWprMEFVRThsSi11VkJIMC1iMkdFSkdvbnVWV1VnSDRzU0Vnb3V0Q3g5SVVEa2FHSWx1SjdUS0xJY2RFX2JrNXh1NVRkclRydHpZTWE5ZWZvWEsyaU9KZkdPU1RPTEhtVFlmRWsySGg5NkFobHRB?oc=5",
-      "time": "2026-09-23T08:03:05+09:00",
-      "timeAgo": "2d ago",
-      "topic": "Sport",
-      "country": "Rwanda",
-      "keywords": [
-        "former",
-        "colleagues",
-        "recall"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
       "title": "Belgium, Rwanda resume diplomatic relations after DRC conflict dispute - Reuters",
       "desc": "Belgium, Rwanda resume diplomatic relations after DRC conflict dispute&nbsp;&nbsp;Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTXZQVlpVbE1PZG9ySkI1bEhiUWllWk5CandndnpnNnFQRXJFRW4xazBzUmZUN3NUaVUxZ3Z2UUN2eHpZSi1JWTQzcmxzM3dCOG9tUGplMTdNb01RNk5zOEFkbGdtYUZ3UlY5dGQ3VzJkSjhRdEFSOFlFNUJPZHZvQmVtYXdPdzNqa3o3Q2wySS1xOHduMGR0a1V0QXlXRWZkWmJoV1FHa3RJLXV5REo3VHpfTk16Q1FONlE?oc=5",
       "time": "2026-09-23T06:30:11+09:00",
-      "timeAgo": "2d ago",
+      "timeAgo": "3d ago",
       "topic": "Politics",
       "country": "DRC",
       "keywords": [
@@ -1024,7 +1216,7 @@
       "desc": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
       "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-23T05:59:00+09:00",
-      "timeAgo": "2d ago",
+      "timeAgo": "3d ago",
       "topic": "Politics",
       "country": "Morocco",
       "keywords": [
@@ -1040,7 +1232,7 @@
       "desc": "Half a dozen groups, accusing the prime minister of being dictatorial, announced the formation of a coalition in a country already scarred by war.",
       "url": "https://www.nytimes.com/2026/09/22/world/africa/ethiopia-rebel-alliance.html",
       "time": "2026-09-23T04:47:49+09:00",
-      "timeAgo": "2d ago",
+      "timeAgo": "3d ago",
       "topic": "Politics",
       "country": "Ethiopia",
       "keywords": [
@@ -1052,11 +1244,27 @@
       "badge": "b-nyt"
     },
     {
+      "title": "UK charges first person, a doctor, over Rwanda’s 1994 genocide that killed 800,000, one of the largest since the Holocaust - Business Insider Africa",
+      "desc": "UK charges first person, a doctor, over Rwanda’s 1994 genocide that killed 800,000, one of the largest since the Holocaust&nbsp;&nbsp;Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTmcyTnVZNWNDSUNxSWNIc0tseWV3WGpWS0hBUHZFcDlxaUdtbDdQdGRyck1XV2ZHMVZhUFBKeTB2aHhJLUstU2JCRWtMbnVaRWFBZ2NhX2M5XzJPNFhhY1FEbXIwQ01IV043WnJ1dGVGaEtNUUFvRGJnczF0azU0V1BrYXZla0tKUFVoLXJuaXV3WmdvcVc4WHdpM05DUEpnSjlYMFV5akN4eUIwUEF4QWlCTUN4TVNiSUN0SFlVU0tLVFd4eHRFY2x1LWRvekR5LU5SamQyVXRXQQ?oc=5",
+      "time": "2026-09-23T03:00:00+09:00",
+      "timeAgo": "3d ago",
+      "topic": "Conflict",
+      "country": "Rwanda",
+      "keywords": [
+        "charges",
+        "first",
+        "person"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
+    },
+    {
       "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
       "desc": "The BBC goes inside the prison where prisoners were trapped in stifling, cramped conditions.",
       "url": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-23T01:42:23+09:00",
-      "timeAgo": "2d ago",
+      "timeAgo": "3d ago",
       "topic": "Society",
       "country": "Nigeria",
       "keywords": [
@@ -1068,27 +1276,11 @@
       "badge": "b-bbc"
     },
     {
-      "title": "Rwandan doctor faces first UK genocide charges over 1994 killings - Courthouse News",
-      "desc": "Rwandan doctor faces first UK genocide charges over 1994 killings&nbsp;&nbsp;Courthouse News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWmoyZ0NZVFhieWktQkxHbExXNTEzVk9CR1d0TDBmbmp4bnV6YmprY01GYlNZSG1XU1U1STlsTnBUclVCUXY4NkNTU0FYOGtTaVB5d1d5YnNWd085RDJuUm1jdXRqRk9IWkxNQV8tTC0zb0Qwa2lzNlNRNFRqZnNrTUVqNGQzdmpPME5EWlFzb1lONk41b1RmS3h3MklzQQ?oc=5",
-      "time": "2026-09-23T00:19:02+09:00",
-      "timeAgo": "2d ago",
-      "topic": "Society",
-      "country": "Rwanda",
-      "keywords": [
-        "rwandan",
-        "doctor",
-        "faces"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
       "title": "'I lost my love for swimming' - Smith comes out of retirement",
       "desc": "South Africa's most successful Olympian Tatjana Smith explains why she has reversed her decision to retire from competitive swimming.",
       "url": "https://www.bbc.co.uk/sport/olympics/articles/ck8d388rmdvqo?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-22T19:10:48+09:00",
-      "timeAgo": "2d ago",
+      "timeAgo": "3d ago",
       "topic": "Society",
       "country": "South Africa",
       "keywords": [
@@ -1100,75 +1292,11 @@
       "badge": "b-bbc"
     },
     {
-      "title": "UK charges man over alleged Rwanda genocide offences - Daily Nation",
-      "desc": "UK charges man over alleged Rwanda genocide offences&nbsp;&nbsp;Daily Nation",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRFlNVXpmMWN0NWtuV1VJVjlRNXc1alJxN1FVR3Fla2I2Z0tjaDRCQVl5akVnU3p3OUQ1dkZ0LXFGcjh5by04Q01xX2IxejZTeDNkblB3cjRhd2ZkSmFTd0czdmVJbV9QVVFlZUk5ZDF2THhuSlhzaElGekRqUHdCMHlfNUJsLUY0OVlOeWx6cDM5R1dQM0tFTXZNMGRTemVDSkE?oc=5",
-      "time": "2026-09-22T13:25:24+09:00",
-      "timeAgo": "2d ago",
-      "topic": "Society",
-      "country": "Rwanda",
-      "keywords": [
-        "charges",
-        "alleged",
-        "rwanda"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
-      "title": "Prosecutors bring UK's first-ever charges over Rwanda genocide - africanews.com",
-      "desc": "Prosecutors bring UK's first-ever charges over Rwanda genocide&nbsp;&nbsp;africanews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRlNMM09GSU9DWlBkM0wyVWJuYVV1OERvQ1pscWZvQWVMUjRDRlJ1akl4OV9Dd1UydVNHRTFjLTBsZnAzN21Cc1FMUTRvdVpsdkY1NXdqWW5DM21rNUYtR3hnc0RQbGRXQTVvNUk2a09JMWlJNDBOOGpKQVpvWkUyZTJ2d1FuNnM4MzZTdUdva2VScXEtbUVPTVRqdjNkRmw4ZGfSAacBQVVfeXFMTkNNTndsX3NaRG5lN19QWDdtT2tvT3VtZTZiYU1NZXRmMU1JNEhpbENMcUU2MnRyQmU5dHlvYlNyMWlpT3FZOFJkQVVLbjVWUkl2ZkRYWkhuTUlLbmlsWFUzcFRBaV9hT2ppRDZ6c2dEQUE3cERkUGxpM3pRTllWNnVKR2hNVmY5N2dsZkU2WEwzSDY4OXMxZU9sYUNqUENPbm82UnFSZjg?oc=5",
-      "time": "2026-09-22T13:17:58+09:00",
-      "timeAgo": "2d ago",
-      "topic": "Society",
-      "country": "Rwanda",
-      "keywords": [
-        "prosecutors",
-        "bring",
-        "first"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
-      "title": "Rwandan man charged with crimes linked to 1994 genocide in first case brought in UK - The Guardian",
-      "desc": "Rwandan man charged with crimes linked to 1994 genocide in first case brought in UK&nbsp;&nbsp;The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQnl4bmo2N0F4bi1BMG1OTk40SE02cGZiOEhVV29HZXRrdUNOa0tBLURFUzdMZi14VUV0OHpXNmhKZHVxdXZzalhLUVhGdGFGbXo4ZDBoTlN1NG1fbGVyU1JORm41TWZ3akxDTFdFNW1CcmgwUEpmLVVIVXN2TmpZRnNrY0JianRZRW83aHJITnRidzJTWHIzdGV1VkhCNHE1RE03OTlkOXprUnhYenVxU0hFNGRWYXFjVGwtNVB3U2JpWmthMFM3NjNCOA?oc=5",
-      "time": "2026-09-22T10:30:00+09:00",
-      "timeAgo": "3d ago",
-      "topic": "Society",
-      "country": "Rwanda",
-      "keywords": [
-        "rwandan",
-        "charged",
-        "crimes"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
-      "title": "UK: Man charged over suspected role in Rwanda genocide - dw.com",
-      "desc": "UK: Man charged over suspected role in Rwanda genocide&nbsp;&nbsp;dw.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdlNGdURJT2ZOZEVsSUplWnJWYTB5MFRGdHZ4eFNOT3c5bUFKT3diY2UzUjVnREd2SVhUTl9wWVFDa1Rya3VHb21MX1lVZnB2b1JQbm9NNnQ3SDFrRERXUnA5WkdCRjZNMzA3Rno5ZWR4NW5LaEFMY2ZKd2MwMm5ia1duUmdHeTN0VzE2YjBvSdIBjwFBVV95cUxPejNKTVZfVEh4VHRtSXlJN3dSa0cwV1lZakUtcjl5MTBwSjFrUFQ4NTRxdGZxSVppYUUxNWZuRHdXeEVFTTZsUzh6RjRpYmFLajdMYjZGTnB2bFFhNDJuYUh5SVdJZUdtQTc4Z0puQTNpNFZxZS1CcXpOaUpYR0Y3SFdzU1dQdmpNTU9vaEZ3MA?oc=5",
-      "time": "2026-09-22T06:58:44+09:00",
-      "timeAgo": "3d ago",
-      "topic": "Society",
-      "country": "Rwanda",
-      "keywords": [
-        "charged",
-        "suspected",
-        "role"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
       "title": "Africa: Corporate Council on Africa Announces C&#xF4;te d'Ivoire as Host of 2027 U.S.-Africa Business Summit",
       "desc": "[Corporate Council on Africa] New York -- C&#xF4;te d'Ivoire will take center stage in the U.S.-Africa business relationship in 2027, as Corporate Council on Af…",
       "url": "https://allafrica.com/stories/202609210835.html",
       "time": "2026-09-22T05:17:17+09:00",
-      "timeAgo": "3d ago",
+      "timeAgo": "4d ago",
       "topic": "Society",
       "country": "Regional",
       "keywords": [
@@ -1184,7 +1312,7 @@
       "desc": "UK prosecutors charge first person for Rwanda genocide&nbsp;&nbsp;Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbDduTnRwRGx4dkFHUXY1cmZfR1d0R2lFb0E1ak1zajEyY1ZySlhpeUluQ3JqN2NnMi1wUExUaWZuTF91Z2RpWWdndmV3T3NrZi1scXh6MGRWZExBU3J0VmdKZzdRX1JxSlF5bW5ZMlNRZ3IwV1B3TzRrZmp3WFRVak04Wko0d2FzelpPQmdfWmZlU3ZYeDRXcGJrMNIBoAFBVV95cUxORnBrWnVINmNsTzNXQXVTVGdWTUItVmhYZjN3dnBtcEFfNVFXWEI0UUhBZEl3YWVabnJqbWFhXzkzc0ZObXlVSk1BcE5lX0N2MjRyeC1idXdBLTVZSTdiTWU2REx6aVZWcVFWUVdCTFh6QkFFajFnUWgyS3lnNnQzT3BtOUlsV2VIVWd5M0JhcWpQblRXbUxhREoyaVRfNUxG?oc=5",
       "time": "2026-09-22T04:54:33+09:00",
-      "timeAgo": "3d ago",
+      "timeAgo": "4d ago",
       "topic": "Society",
       "country": "Rwanda",
       "keywords": [
@@ -1196,43 +1324,11 @@
       "badge": "b-rw"
     },
     {
-      "title": "UK brings first charges over the 1994 Rwanda genocide - scmp.com",
-      "desc": "UK brings first charges over the 1994 Rwanda genocide&nbsp;&nbsp;scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNkNSWWMwdWF0VUwxaVJrSnlQaGwtZ2dVcms1VkxmMUkzTHdBOExEUEItMjRRVzlYZndqMi1WN2w4X2l1dDZ2Z1YzdllIUmNjMXRNQ2VBcTVHZmFSMWpvaFo0RnFRNERVa0xMYlY3U2VrdGJ6aXRheXJDMGFvckZNeTJEM2lHVmhBR2ZTcHFJN1loaGNDR2tqMXl3bU1vTFR1Q3fSAaIBQVVfeXFMTXhsaFFJYk50Q1ZzWjhaTHhMcGJKenBwYVlXWmRHUkdWWW1Nakhqb3lXT3c4YmpscDc5R04wTktsZS1aVThCMWRJQXRoNlZGa2VpdWoxQnR4QTUxZFVwSFRRTVA1NTUzTDB3bUVfS0pFamZ2UEMtYjMtdndLTkpTZzBCaEJRQkNIMmk3aVExRTlLZElnS0RTNjI1ZEFBZ2F0YmRB?oc=5",
-      "time": "2026-09-22T03:51:26+09:00",
-      "timeAgo": "3d ago",
-      "topic": "Society",
-      "country": "Rwanda",
-      "keywords": [
-        "brings",
-        "first",
-        "charges"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
-      "title": "British prosecutors charge doctor in the 1994 Rwandan genocide - NBC News",
-      "desc": "British prosecutors charge doctor in the 1994 Rwandan genocide&nbsp;&nbsp;NBC News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSWx5R1cyeG1GdGNGTlRPOUZCRmNueGtna1dKSFpmdUFmQm1pZVRxSHlqdmFXZlVTdEE1ZnMzX3VjTzgyb2xDU1o5SWVrVTh5SVE4aGt1NDVXLW9zZU9iVHY3eVZCcVI2LTJPVGpOM05MZURaemxTazFkU1Y2SU9JUnl1OXVIX3BQaWZmbU53OEIyWEs3bTUxUjgtZm41UjRWMURiNUIydFJ0dU5HZXJKNQ?oc=5",
-      "time": "2026-09-22T03:27:41+09:00",
-      "timeAgo": "3d ago",
-      "topic": "Society",
-      "country": "Rwanda",
-      "keywords": [
-        "british",
-        "prosecutors",
-        "charge"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
       "title": "A Collector’s Art, on Loan to the Met, Will Be Owned by Nigeria",
       "desc": "Novel collaborations with countries of origin allow objects in private U.S. collections to be repatriated and head for the Met on loan.",
       "url": "https://www.nytimes.com/2026/09/21/arts/design/nigeria-art-collector-ceil-pultizer-metropolitan-museum-hollein.html",
       "time": "2026-09-22T01:33:49+09:00",
-      "timeAgo": "3d ago",
+      "timeAgo": "4d ago",
       "topic": "Society",
       "country": "Nigeria",
       "keywords": [
@@ -1244,27 +1340,11 @@
       "badge": "b-nyt"
     },
     {
-      "title": "UK PROSECUTORS: FIRST GENOCIDE OFFENCES IN THE UK AS MAN CHARGED FOLLOWING TUTSI KILLINGS IN RWANDA - news.cgtn.com",
-      "desc": "UK PROSECUTORS: FIRST GENOCIDE OFFENCES IN THE UK AS MAN CHARGED FOLLOWING TUTSI KILLINGS IN RWANDA&nbsp;&nbsp;news.cgtn.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HNGxlOGt0LUc4TUhYaEZ6dWJkeDR4RnlMeUQtRWZkNGpYZlZlSS1fcGpkemF3clQ0TDVEb2FsZkgxRHUzcDNMX3N6aWtZWHZGWFRxbHQtSkJFME1WOFBub1g1b3BQRk1XUGJJRmZ3?oc=5",
-      "time": "2026-09-22T01:01:51+09:00",
-      "timeAgo": "3d ago",
-      "topic": "Society",
-      "country": "Rwanda",
-      "keywords": [
-        "prosecutors",
-        "first",
-        "genocide"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
-      "title": "DRC: M23 fighters abused miners and trafficked gold and coltan to Rwanda - Amnesty International",
-      "desc": "DRC: M23 fighters abused miners and trafficked gold and coltan to Rwanda&nbsp;&nbsp;Amnesty International",
+      "title": "DRC: M23 fighters abused miners and trafficked gold and coltan to Rwanda - amnesty.org",
+      "desc": "DRC: M23 fighters abused miners and trafficked gold and coltan to Rwanda&nbsp;&nbsp;amnesty.org",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTndkYy1xaW5hQS1VNGkyblAteEpHOVltTXlmcFNwZXZXa1pqdjkzMERjdWdOY2hJRUQ2d0ZTNTFLQ280U2dMRVBOclFCWThCSWtLZ1lzQ19QOHRqRG5EQU1EZmNNYkh0Nk9hT1o3cmxWNzFQQmtqamtDV1RRUG1oSkl4TWdHeUZYMEoweWxUeXJJNlNrTGlrbjVWVEpyeHZJVVFjS292ZzZuV1Q3bnRfdDcxWDVickY1OTVN?oc=5",
       "time": "2026-09-21T10:01:00+09:00",
-      "timeAgo": "4d ago",
+      "timeAgo": "5d ago",
       "topic": "Society",
       "country": "DRC",
       "keywords": [
@@ -1280,7 +1360,7 @@
       "desc": "Kenya's Agnes Ngetich breaks the world record for a women-only half marathon as she wins gold at the World Road Running Championships in Copenhagen.",
       "url": "https://www.bbc.co.uk/sport/athletics/articles/cq2e0ve219dxo?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-20T19:55:57+09:00",
-      "timeAgo": "4d ago",
+      "timeAgo": "5d ago",
       "topic": "Sport",
       "country": "Kenya",
       "keywords": [
@@ -1296,7 +1376,7 @@
       "desc": "As a fixer for Algeria’s government, she befriended radicals and revolutionaries and helped the Black Panthers establish an international base in Algiers.",
       "url": "https://www.nytimes.com/2026/09/19/world/africa/elaine-mokhtefi-dead.html",
       "time": "2026-09-20T08:36:43+09:00",
-      "timeAgo": "5d ago",
+      "timeAgo": "6d ago",
       "topic": "Politics",
       "country": "Algeria",
       "keywords": [
@@ -1312,7 +1392,7 @@
       "desc": "African football boss Patrice Motsepe wants a \"heightened sense of urgency\" from Afcon 2027 co-hosts Kenya, Tanzania and Uganda as they face a race to be ready.…",
       "url": "https://www.bbc.co.uk/sport/football/articles/cxr50lgjgz98o?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-19T19:24:01+09:00",
-      "timeAgo": "5d ago",
+      "timeAgo": "6d ago",
       "topic": "Sport",
       "country": "Kenya",
       "keywords": [
@@ -1328,7 +1408,7 @@
       "desc": "Witnesses say men were hooded and beaten in Equatorial Guinea. The autocratic government there is a partner in President Trump’s deportation program.",
       "url": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
       "time": "2026-09-19T08:38:22+09:00",
-      "timeAgo": "6d ago",
+      "timeAgo": "19 Sep",
       "topic": "Politics",
       "country": "Regional",
       "keywords": [
@@ -1344,7 +1424,7 @@
       "desc": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
       "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-19T08:04:41+09:00",
-      "timeAgo": "6d ago",
+      "timeAgo": "19 Sep",
       "topic": "Conflict",
       "country": "South Africa",
       "keywords": [
@@ -1360,7 +1440,7 @@
       "desc": "Thirty-seven people died in the authorities’ custody, officials said. Survivors said the cell had barely any ventilation, food, or water and people began “colla…",
       "url": "https://www.nytimes.com/2026/09/18/world/africa/nigeria-miners-dead-police-minna.html",
       "time": "2026-09-19T04:45:52+09:00",
-      "timeAgo": "6d ago",
+      "timeAgo": "19 Sep",
       "topic": "Humanitarian",
       "country": "Nigeria",
       "keywords": [
@@ -1376,29 +1456,13 @@
       "desc": "Former France international Patrick Vieira, a World Cup winner in 1998, says taking charge of Senegal, the nation of his birth, is an \"honour\".",
       "url": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-19T02:01:59+09:00",
-      "timeAgo": "6d ago",
+      "timeAgo": "19 Sep",
       "topic": "Sport",
       "country": "Senegal",
       "keywords": [
         "senegal",
         "absolute",
         "dream"
-      ],
-      "src": "BBC",
-      "badge": "b-bbc"
-    },
-    {
-      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-      "desc": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
-      "url": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
-      "time": "2026-09-18T08:24:07+09:00",
-      "timeAgo": "18 Sep",
-      "topic": "Economy",
-      "country": "Nigeria",
-      "keywords": [
-        "company",
-        "nigerians",
-        "show"
       ],
       "src": "BBC",
       "badge": "b-bbc"
@@ -1468,22 +1532,6 @@
       "badge": "b-bbc"
     },
     {
-      "title": "How an African country got the 2029 World Athletics Championships",
-      "desc": "BBC Sport Africa's Celestine Karoney explains why the 2029 World Athletics Championships was given to Nairobi in Kenya, as the tournament will take place in Afr…",
-      "url": "https://www.bbc.co.uk/sport/athletics/videos/cm93evnkdy81o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-09-16T02:23:07+09:00",
-      "timeAgo": "16 Sep",
-      "topic": "Sport",
-      "country": "Kenya",
-      "keywords": [
-        "country",
-        "world",
-        "athletics"
-      ],
-      "src": "BBC",
-      "badge": "b-bbc"
-    },
-    {
       "title": "How Kenya won its bid for 2029 World Athletics Championships",
       "desc": "Kenya's athletics-loving population and improved infrastructure helped Nairobi secure the rights to host the 2029 World Championships, but challenges remain to …",
       "url": "https://www.bbc.co.uk/sport/athletics/articles/cxvgyrlzn10lo?at_medium=RSS&at_campaign=rss",
@@ -1530,22 +1578,6 @@
       ],
       "src": "NYT",
       "badge": "b-nyt"
-    },
-    {
-      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-      "desc": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-09-12T19:00:05+09:00",
-      "timeAgo": "12 Sep",
-      "topic": "Economy",
-      "country": "Kenya",
-      "keywords": [
-        "like",
-        "loose",
-        "fear"
-      ],
-      "src": "BBC",
-      "badge": "b-bbc"
     },
     {
       "title": "Tyla and Other Stars Cancel Concerts Amid Anti-Immigrant Backlash",
