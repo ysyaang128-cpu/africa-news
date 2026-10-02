@@ -1,12 +1,12 @@
 {
-  "updated": "1 Oct 2026 13:00 KST",
-  "count": 97,
+  "updated": "2 Oct 2026 12:56 KST",
+  "count": 100,
   "articles": [
     {
       "title": "Ethiopia",
       "desc": "",
       "url": "https://www.cnn.com/specials/africa/ethiopia?utm_source=section",
-      "time": "2026-10-01T13:00:10.933413+09:00",
+      "time": "2026-10-02T12:56:21.175111+09:00",
       "timeAgo": "0m ago",
       "topic": "Society",
       "country": "Ethiopia",
@@ -20,7 +20,7 @@
       "title": "Nigeria",
       "desc": "",
       "url": "https://www.cnn.com/specials/africa/nigeria?utm_source=section",
-      "time": "2026-10-01T13:00:10.933413+09:00",
+      "time": "2026-10-02T12:56:21.175111+09:00",
       "timeAgo": "0m ago",
       "topic": "Society",
       "country": "Nigeria",
@@ -31,43 +31,650 @@
       "badge": "b-cnn"
     },
     {
-      "title": "AFCON 2027: East Africa races to get tournament-ready",
-      "desc": "Kenya, Uganda and Tanzania have less than nine months to prepare for AFCON 2027.",
-      "url": "https://www.aljazeera.com/news/2026/10/1/afcon-2027-east-africa-races-to-get-tournament-ready?traffic_source=rss",
-      "time": "2026-10-01T12:04:24+09:00",
-      "timeAgo": "55m ago",
-      "topic": "Sport",
-      "country": "Kenya",
+      "title": "UK-Mauritius Chagos sovereignty deal stalls amid fears of further delays",
+      "desc": "Renewed talks over the stalled agreement have revived hope of resettlement, but ageing Chagossians fear time is running.",
+      "url": "https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays?traffic_source=rss",
+      "time": "2026-10-02T09:29:57+09:00",
+      "timeAgo": "3h ago",
+      "topic": "Society",
+      "country": "Mauritius",
       "keywords": [
-        "afcon",
-        "east",
-        "races"
+        "mauritius",
+        "chagos",
+        "sovereignty"
       ],
       "src": "Al Jazeera",
       "badge": "b-aj"
     },
     {
-      "title": "Win for Mombasa port as Rwanda chooses it for its petroleum imports - the-star.co.ke",
-      "desc": "Win for Mombasa port as Rwanda chooses it for its petroleum imports&nbsp;&nbsp;the-star.co.ke",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMk9SSVkyZHdmRHlMdUsyWkF4dXF3VnIyRzlPbnN1NTdXLUZDZHp5VjNkaEpBazk5YjVQTnF6VTNLcGRnUVBBLWwzRGxrTjl0SkE1QlhlbnpHYkVpaVhoX25hVVZVb1pMcWZOWjN0UTdZeVhIUkhHQ2ZVX0VsUXZEOGNYMkZWX3RFSDVybi1IQU5GNXVJUE5GeDdiT2pGZw?oc=5",
-      "time": "2026-10-01T12:00:00+09:00",
-      "timeAgo": "1h ago",
+      "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
+      "desc": "A voter mobilisation campaign has registered huge numbers of young people but it is not clear who they are backing.",
+      "url": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-10-02T08:46:12+09:00",
+      "timeAgo": "4h ago",
+      "topic": "Politics",
+      "country": "Kenya",
+      "keywords": [
+        "making",
+        "politics",
+        "trendy"
+      ],
+      "src": "BBC",
+      "badge": "b-bbc"
+    },
+    {
+      "title": "A Flashy Zimbabwean Tycoon Who Befriended Presidents Dies in Crash",
+      "desc": "Wicknell Chivayo was riding in a helicopter with his wife when it plunged into a field. Dogged by corruption allegations, the businessman drew polarizing reacti…",
+      "url": "https://www.nytimes.com/2026/10/01/world/africa/zimbabwe-wicknell-chivayo-helicopter-crash.html",
+      "time": "2026-10-02T05:41:28+09:00",
+      "timeAgo": "7h ago",
+      "topic": "Politics",
+      "country": "Zimbabwe",
+      "keywords": [
+        "flashy",
+        "zimbabwean",
+        "tycoon"
+      ],
+      "src": "NYT",
+      "badge": "b-nyt"
+    },
+    {
+      "title": "The filmmaker taking on Kenya’s colonised tea plantations",
+      "desc": "The filmmaker taking on Kenya’s colonised tea plantations",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/the-filmmaker-taking-on-kenyas-colonised-tea-plantations?traffic_source=rss",
+      "time": "2026-10-02T05:29:51+09:00",
+      "timeAgo": "7h ago",
       "topic": "Society",
       "country": "Kenya",
       "keywords": [
-        "mombasa",
-        "port",
-        "rwanda"
+        "filmmaker",
+        "taking",
+        "kenya"
+      ],
+      "src": "Al Jazeera",
+      "badge": "b-aj"
+    },
+    {
+      "title": "Egypt arrests entire newsroom of 'unlicensed' independent outlet",
+      "desc": "Egypt's interior ministry said Thursday it arrested six staff members of a fact-checking platform it accused of being \"unlicensed\" and linked to the banned Musl…",
+      "url": "http://www.africanews.com/2026/10/01/egypt-arrests-entire-newsroom-of-unlicensed-independent-outlet/",
+      "time": "2026-10-02T05:21:54+09:00",
+      "timeAgo": "7h ago",
+      "topic": "Humanitarian",
+      "country": "Egypt",
+      "keywords": [
+        "egypt",
+        "arrests",
+        "entire"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
+      "desc": "Ethiopia says it will shut its embassy in Asmara, declares 10 Eritrean diplomats persona non grata.",
+      "url": "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss",
+      "time": "2026-10-02T05:10:52+09:00",
+      "timeAgo": "7h ago",
+      "topic": "Politics",
+      "country": "Ethiopia",
+      "keywords": [
+        "eritrea",
+        "severs",
+        "diplomatic"
+      ],
+      "src": "Al Jazeera",
+      "badge": "b-aj"
+    },
+    {
+      "title": "Former Sudanese president Bashir hospitalized in Khartoum",
+      "desc": "The 82-year-old has spent most of his life, since his ouster in 2019, between hospital and prison",
+      "url": "http://www.africanews.com/2026/10/01/former-sudanese-president-bashir-hospitalized-in-khartoum/",
+      "time": "2026-10-02T04:11:48+09:00",
+      "timeAgo": "8h ago",
+      "topic": "Politics",
+      "country": "Sudan",
+      "keywords": [
+        "former",
+        "sudanese",
+        "president"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Africa: Multilingualism Key to Africa's International Cooperation - ECA",
+      "desc": "[ENA] Addis Ababa -- Multilingualism is essential to strengthening Africa's international cooperation as language plays a central role in diplomacy, trade, educ…",
+      "url": "https://allafrica.com/stories/202610010628.html",
+      "time": "2026-10-02T03:38:57+09:00",
+      "timeAgo": "9h ago",
+      "topic": "Economy",
+      "country": "Ethiopia",
+      "keywords": [
+        "multilingualism",
+        "international",
+        "cooperation"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Nigerian Charged With Running Fake Government Agency",
+      "desc": "The Nigerian secured office space in a federal building, opened bank accounts and even held meetings with foreign diplomats. He says he is innocent.",
+      "url": "https://www.nytimes.com/2026/10/01/world/africa/nigeria-fake-government-agency.html",
+      "time": "2026-10-02T03:33:15+09:00",
+      "timeAgo": "9h ago",
+      "topic": "Politics",
+      "country": "Nigeria",
+      "keywords": [
+        "nigerian",
+        "charged",
+        "running"
+      ],
+      "src": "NYT",
+      "badge": "b-nyt"
+    },
+    {
+      "title": "Africa: Africa's Health-Tech Sector Challenged to Produce Billion-Dollar Companies",
+      "desc": "[New Times] Africa's health-tech sector should produce its first billion-dollar company within the next five years, Jean-Philbert Nsengimana, Chairman of the Af…",
+      "url": "https://allafrica.com/stories/202610010616.html",
+      "time": "2026-10-02T03:10:42+09:00",
+      "timeAgo": "9h ago",
+      "topic": "Technology",
+      "country": "Regional",
+      "keywords": [
+        "health",
+        "tech",
+        "sector"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Algeria adopts law imposing death penalty on forest arsonists",
+      "desc": "Algerian lawmakers on Thursday voted to impose the death penalty on convicted forest arsonists, after deadly wildfires killed at least 12 people during the summ…",
+      "url": "http://www.africanews.com/2026/10/01/algeria-adopts-law-imposing-death-penalty-on-forest-arsonists/",
+      "time": "2026-10-02T02:12:36+09:00",
+      "timeAgo": "10h ago",
+      "topic": "Politics",
+      "country": "Algeria",
+      "keywords": [
+        "algeria",
+        "adopts",
+        "imposing"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "York Space Systems (YSS) Expands Rwanda Antenna Capacity, Is It Still 42% Below Fair Value? - Yahoo Finance",
+      "desc": "York Space Systems (YSS) Expands Rwanda Antenna Capacity, Is It Still 42% Below Fair Value?&nbsp;&nbsp;Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdlNYb2FkbDBFLTdaQkxhZ1N5bl9NVTF3dnBzTTl3UnNJQlVpbmtkU1VnYTN1dzBscnlJRU9WWGNYRDVIUjY1RDZZNXhBWVcycWVveksyTTlGdXMwYTBXeXU5aDlsWWNadEhreHMwUlZuQ2pWUmxjZTczYk5nMmMzdTU2bjRGVFZsclFXS0VuQkxkRkE3WTkwVzBxYw?oc=5",
+      "time": "2026-10-02T02:12:07+09:00",
+      "timeAgo": "10h ago",
+      "topic": "Economy",
+      "country": "Rwanda",
+      "keywords": [
+        "york",
+        "space",
+        "systems"
       ],
       "src": "Rwanda",
       "badge": "b-rw"
+    },
+    {
+      "title": "East African countries are racing to finish preparations ahead of AFCON 2027",
+      "desc": "With less than nine months to go before the start of the 2027 Africa Cup of Nations, host nations Kenya, Tanzania and Uganda are scrambling to finish preparatio…",
+      "url": "http://www.africanews.com/2026/10/01/east-african-countries-are-racing-to-finish-preparations-ahead-of-afcon-2027/",
+      "time": "2026-10-02T01:52:00+09:00",
+      "timeAgo": "11h ago",
+      "topic": "Sport",
+      "country": "Kenya",
+      "keywords": [
+        "east",
+        "countries",
+        "racing"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Africa: Liberia, Egypt Sign Military Cooperation Protocol",
+      "desc": "[New Dawn] -- Training, Intelligence Sharing, Technical Cooperation Included",
+      "url": "https://allafrica.com/stories/202610010543.html",
+      "time": "2026-10-02T01:49:13+09:00",
+      "timeAgo": "11h ago",
+      "topic": "Conflict",
+      "country": "Egypt",
+      "keywords": [
+        "liberia",
+        "egypt",
+        "sign"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Mixed reactions after prominent Zimbabwe businessman dies in helicopter crash",
+      "desc": "Wicknell Chivayo was one of the most recognisable faces of a class of conspicuously wealthy entrepreneurs with ties to the ruling party",
+      "url": "http://www.africanews.com/2026/10/01/mixed-reactions-after-prominent-zimbabwe-businessman-dies-in-helicopter-crash/",
+      "time": "2026-10-02T01:46:16+09:00",
+      "timeAgo": "11h ago",
+      "topic": "Economy",
+      "country": "Zimbabwe",
+      "keywords": [
+        "mixed",
+        "reactions",
+        "prominent"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
+      "desc": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
+      "url": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-10-02T01:31:35+09:00",
+      "timeAgo": "11h ago",
+      "topic": "Society",
+      "country": "Algeria",
+      "keywords": [
+        "algeria",
+        "introduces",
+        "death"
+      ],
+      "src": "BBC",
+      "badge": "b-bbc"
+    },
+    {
+      "title": "Rwanda open to hosting migrants transferred from Europe, EU lawmakers say - CNBC Africa",
+      "desc": "Rwanda open to hosting migrants transferred from Europe, EU lawmakers say&nbsp;&nbsp;CNBC Africa",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV1FhYUZzZk9zNkY3V2pkdS1TYzAtX1RYN0x3N05Lci1COUN5VTFQbTB3VlA2S0txRWdsd1ExVVZpcGZsQnlRY2E3VXp4RUtQZXpBQ0RFWVlvMkYxYlFWa3pKdzc4SHU5UXNZVXgzVGpwQjh5MFhVMzVZOUJGZV94LS01b0xiTHlYQjhPc29Bb1lCQWd5MFA1Y21nUVRIYS1YcTNLaU91WQ?oc=5",
+      "time": "2026-10-02T01:16:00+09:00",
+      "timeAgo": "11h ago",
+      "topic": "Society",
+      "country": "Rwanda",
+      "keywords": [
+        "rwanda",
+        "open",
+        "hosting"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
+    },
+    {
+      "title": "Zimbabwe probes helicopter crash that killed tycoon Chivayo",
+      "desc": "Wicknell Chivayo, a tycoon close to the ruling ZANU-PF party known for his extravagant displays of wealth, and his wife Lucy Muteke were among the victims, fami…",
+      "url": "http://www.africanews.com/2026/10/01/zimbabwe-probes-helicopter-crash-that-killed-tycoon-chivayo/",
+      "time": "2026-10-02T01:03:46+09:00",
+      "timeAgo": "11h ago",
+      "topic": "Conflict",
+      "country": "Zimbabwe",
+      "keywords": [
+        "zimbabwe",
+        "probes",
+        "helicopter"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Amnesty accuses Morocco of spying on activists and journalists",
+      "desc": "In a new report, it says intelligence services us a web of surveillance to silence any critical voices.",
+      "url": "http://www.africanews.com/2026/10/01/amnesty-accuses-morocco-of-spying-on-activists-and-journalists/",
+      "time": "2026-10-02T00:39:05+09:00",
+      "timeAgo": "12h ago",
+      "topic": "Society",
+      "country": "Morocco",
+      "keywords": [
+        "amnesty",
+        "accuses",
+        "morocco"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Africa: Chris Diaz to UN Forum - Africa's Business Growth Is the World's Biggest Opportunity",
+      "desc": "[Capital FM] Nairobi -- Global leaders convened at the United Nations headquarters in New York for a private sector forum, where business leader from Nairobi, K…",
+      "url": "https://allafrica.com/stories/202610010477.html",
+      "time": "2026-10-02T00:14:47+09:00",
+      "timeAgo": "12h ago",
+      "topic": "Politics",
+      "country": "Kenya",
+      "keywords": [
+        "chris",
+        "diaz",
+        "forum"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+      "desc": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-10-02T00:05:36+09:00",
+      "timeAgo": "12h ago",
+      "topic": "Society",
+      "country": "Ethiopia",
+      "keywords": [
+        "explosions",
+        "heard",
+        "ethiopia"
+      ],
+      "src": "BBC",
+      "badge": "b-bbc"
+    },
+    {
+      "title": "Africa: How Lafarge Tried to 'Frustrate' Dangote's Cement Expansion in Africa - Obasanjo",
+      "desc": "[Premium Times] \"The people who really didn't want Aliko to succeed in cement production is a French company called Lafarge, and they put every obstacle on Alik…",
+      "url": "https://allafrica.com/stories/202610010393.html",
+      "time": "2026-10-01T22:41:38+09:00",
+      "timeAgo": "14h ago",
+      "topic": "Society",
+      "country": "Regional",
+      "keywords": [
+        "lafarge",
+        "tried",
+        "frustrate"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
+      "desc": "Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts.",
+      "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-10-01T22:13:33+09:00",
+      "timeAgo": "14h ago",
+      "topic": "Politics",
+      "country": "Zimbabwe",
+      "keywords": [
+        "zimbabwe",
+        "tycoon",
+        "wicknell"
+      ],
+      "src": "BBC",
+      "badge": "b-bbc"
+    },
+    {
+      "title": "Nigeria's president hails economic reforms ahead of bid for reelection",
+      "desc": "President Bola Tinubu lauded that the country had overcome major challenges since he assumed office in 2023 while he remains unpopular among young Nigerians wit…",
+      "url": "http://www.africanews.com/2026/10/01/nigerias-president-hails-economic-reforms-ahead-of-bid-for-reelection/",
+      "time": "2026-10-01T21:47:09+09:00",
+      "timeAgo": "15h ago",
+      "topic": "Politics",
+      "country": "Nigeria",
+      "keywords": [
+        "nigeria",
+        "president",
+        "hails"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Burkina Faso's military leaders mark four years in power",
+      "desc": "People gathered in Ougadougou’s Place de la Révolution on Wednesday night to celebrate the military government's achievements.",
+      "url": "http://www.africanews.com/2026/10/01/burkina-fasos-military-leaders-mark-four-years-in-power/",
+      "time": "2026-10-01T20:56:30+09:00",
+      "timeAgo": "15h ago",
+      "topic": "Politics",
+      "country": "Burkina Faso",
+      "keywords": [
+        "burkina",
+        "faso",
+        "military"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Ethiopia: federal forces advance in Tigray as 52 civilians reported killed",
+      "desc": "The conflict is also spreading beyond Tigray, with fighting reported in neighbouring Afar and Amhara regions. Communications remain disrupted, making independen…",
+      "url": "http://www.africanews.com/2026/10/01/ethiopia-federal-forces-advance-in-tigray-as-52-civilians-reported-killed/",
+      "time": "2026-10-01T20:11:27+09:00",
+      "timeAgo": "16h ago",
+      "topic": "Conflict",
+      "country": "Ethiopia",
+      "keywords": [
+        "ethiopia",
+        "federal",
+        "forces"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Africa: Dangote and Musk - Africa Needs Both Industrialists and Tech Innovators",
+      "desc": "[ISS] The two entrepreneurs represent distinct forms of business leadership, and governments must create the conditions for both to thrive.",
+      "url": "https://allafrica.com/stories/202610010248.html",
+      "time": "2026-10-01T19:33:51+09:00",
+      "timeAgo": "17h ago",
+      "topic": "Politics",
+      "country": "Regional",
+      "keywords": [
+        "dangote",
+        "musk",
+        "needs"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Africa: Solid growth amid investment challenges  [Business Africa]",
+      "desc": "Despite the global economic slowdown, Africa is maintaining steady growth. In the second quarter of 2026, its real GDP grew by 1.6%, compared to 0.7% for the gl…",
+      "url": "http://www.africanews.com/2026/10/01/africa-solid-growth-amid-investment-challenges-business-africa/",
+      "time": "2026-10-01T18:15:21+09:00",
+      "timeAgo": "18h ago",
+      "topic": "Economy",
+      "country": "Regional",
+      "keywords": [
+        "solid",
+        "growth",
+        "investment"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Mali: more than 2,400 schools remain closed as insecurity disrupts new school year",
+      "desc": "The government has made education a priority, but the security situation remains a major obstacle to reopening schools in affected areas.",
+      "url": "http://www.africanews.com/2026/10/01/mali-more-than-2400-schools-remain-closed-as-insecurity-disrupts-new-school-year/",
+      "time": "2026-10-01T18:06:07+09:00",
+      "timeAgo": "18h ago",
+      "topic": "Politics",
+      "country": "Mali",
+      "keywords": [
+        "mali",
+        "schools",
+        "remain"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Ethiopian Airlines signs deal to buy 10 Boeing cargo planes",
+      "desc": "State-owned company Ethiopian Airlines has agreed to buy 10 Boeing cargo aircraft, with an option to acquire eight more, in an effort to increase its cargo serv…",
+      "url": "http://www.africanews.com/2026/10/01/ethiopian-airlines-signs-deal-to-buy-10-boeing-cargo-planes/",
+      "time": "2026-10-01T17:14:42+09:00",
+      "timeAgo": "19h ago",
+      "topic": "Society",
+      "country": "Ethiopia",
+      "keywords": [
+        "ethiopian",
+        "airlines",
+        "signs"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "Hapag-Lloyd builds momentum in Africa with expansion in Namibia, Rwanda and Burundi - Hapag-Lloyd",
+      "desc": "Hapag-Lloyd builds momentum in Africa with expansion in Namibia, Rwanda and Burundi&nbsp;&nbsp;Hapag-Lloyd",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbUN2MGU1dWdoTTdUQS1oajVSbHoxLUl6RHpwVjdfMXhJQmtxNXA4VnFwdGVvX3RNTEcydkkzMU1iaHNYU28zSHZTUlB5TUZCa1gtWHZ2T1hLZks4Rl80YWtFNGd2OHZrbktJblhjM3BNeFJzaml6b3E1VnBCRTIzY21nclM1V2dEQkswLVJ2Njh2a0oySWtCM01mWGFFcUdFeXdNOXdKc19rM2pVc2hJcXdKMHZ1MTNXZEpCM0xnNGRSdUpHUFpsd3k1SQ?oc=5",
+      "time": "2026-10-01T16:56:00+09:00",
+      "timeAgo": "20h ago",
+      "topic": "Society",
+      "country": "Namibia",
+      "keywords": [
+        "hapag",
+        "lloyd",
+        "builds"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
+    },
+    {
+      "title": "Zimbabwe businessman Wicknell Chivayo and wife killed in helicopter crash",
+      "desc": "Police confirmed in a short statement on X that the helicopter was carrying six occupants but could not immediately confirm the identities of the victims.",
+      "url": "http://www.africanews.com/2026/10/01/zimbabwe-businessman-wicknell-chivayo-and-wife-killed-in-helicopter-crash/",
+      "time": "2026-10-01T16:41:30+09:00",
+      "timeAgo": "20h ago",
+      "topic": "Conflict",
+      "country": "Zimbabwe",
+      "keywords": [
+        "zimbabwe",
+        "businessman",
+        "wicknell"
+      ],
+      "src": "Africanews",
+      "badge": "b-an"
+    },
+    {
+      "title": "ZAWYA: How Kenya won back Rwanda’s oil cargo imports ? - TradingView",
+      "desc": "ZAWYA: How Kenya won back Rwanda’s oil cargo imports ?&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMjA4dno3cy0tMnViWDYwRVR3V3JSVXIxdGpQQTdhZ0hOaEhKclY3cHRIQ2xkN0F6VUtPdXVqRzg0YkhYLUZoOGRaUDBVUmQ5cW0td0hVcEFZekdpRDZFUHZ2c2FHZmJNUTRoLW9uN2tPMEQzNkJrbl9sSTVuSjZIZUp1THVibU53eFBDRWE2UWtNYVVQNG5EdHp5Z2g3aXMtUUNDbi1TbHpVSHVvNzZlcjRSSE5mY09oQ01rXzAwYUV2OUcx?oc=5",
+      "time": "2026-10-01T16:41:26+09:00",
+      "timeAgo": "20h ago",
+      "topic": "Society",
+      "country": "Kenya",
+      "keywords": [
+        "zawya",
+        "kenya",
+        "back"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
+    },
+    {
+      "title": "Africa: All of Africa Today - October 1, 2026",
+      "desc": "[allAfrica]",
+      "url": "https://allafrica.com/stories/202610010112.html",
+      "time": "2026-10-01T16:14:15+09:00",
+      "timeAgo": "20h ago",
+      "topic": "Society",
+      "country": "Regional",
+      "keywords": [
+        "today",
+        "october"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Dangote: 'Nobody can make Africa great but us'",
+      "desc": "Africa's richest man says Africans should take the fate of their continent in their own hands, rather than relying on foreigners.",
+      "url": "https://www.bbc.co.uk/news/videos/c893v3l7l1p0o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-10-01T15:24:27+09:00",
+      "timeAgo": "21h ago",
+      "topic": "Society",
+      "country": "Regional",
+      "keywords": [
+        "dangote",
+        "nobody",
+        "make"
+      ],
+      "src": "BBC",
+      "badge": "b-bbc"
+    },
+    {
+      "title": "East Africa: Construction of East Africa's $16bn Dangote Refinery Launched in Kenya",
+      "desc": "[New Times] Kenyan President William Ruto and Nigerian businessman Aliko Dangote on Wednesday, September 30, launched the construction of the Dangote East Afric…",
+      "url": "https://allafrica.com/stories/202610010094.html",
+      "time": "2026-10-01T14:28:54+09:00",
+      "timeAgo": "22h ago",
+      "topic": "Politics",
+      "country": "Nigeria",
+      "keywords": [
+        "east",
+        "construction",
+        "east"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "East Africa: Museveni Says East Africa Must Unite Politically to Share Refinery Jobs and Profits",
+      "desc": "[Nile Post] President Museveni has renewed his call for East African countries to pursue political integration, arguing that deeper unity is necessary for membe…",
+      "url": "https://allafrica.com/stories/202610010086.html",
+      "time": "2026-10-01T14:28:50+09:00",
+      "timeAgo": "22h ago",
+      "topic": "Politics",
+      "country": "Regional",
+      "keywords": [
+        "east",
+        "museveni",
+        "east"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Africa: Child Malnutrition Is One of Africa's Biggest Health Challenges - Food Aid Is Only Part of the Solution",
+      "desc": "[Daily News] Dar es Salaam -- MALNUTRITION among children under five remains one of sub-Saharan Africa's most persistent public health challenges.",
+      "url": "https://allafrica.com/stories/202610010049.html",
+      "time": "2026-10-01T14:12:10+09:00",
+      "timeAgo": "22h ago",
+      "topic": "Humanitarian",
+      "country": "Tanzania",
+      "keywords": [
+        "child",
+        "malnutrition",
+        "biggest"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Africa: Homicides Fall As Organised Crime Grows More Profitable - and Networked",
+      "desc": "[UN News] Homicide rates are falling across much of the world, but organised crime is on the rise in many regions as criminal networks diversify into traffickin…",
+      "url": "https://allafrica.com/stories/202610010011.html",
+      "time": "2026-10-01T13:43:43+09:00",
+      "timeAgo": "23h ago",
+      "topic": "Society",
+      "country": "Regional",
+      "keywords": [
+        "homicides",
+        "fall",
+        "organised"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
+    },
+    {
+      "title": "Africa: Could a New Global Panel Defuse Inequality's 'Ticking Time Bomb'?",
+      "desc": "[UN News] What if the world tackled inequality with the same kind of scientific firepower it has brought to the climate crisis?",
+      "url": "https://allafrica.com/stories/202610010012.html",
+      "time": "2026-10-01T13:43:43+09:00",
+      "timeAgo": "23h ago",
+      "topic": "Environment",
+      "country": "Regional",
+      "keywords": [
+        "could",
+        "global",
+        "panel"
+      ],
+      "src": "AllAfrica",
+      "badge": "b-aa"
     },
     {
       "title": "Morocco’s King Names a Female Prime Minister, in a Historic First",
       "desc": "Morocco became the second North African country to have a woman lead the government with the selection of Fatima Ezzahra El Mansouri, a lawyer and politician fr…",
       "url": "https://www.nytimes.com/2026/09/29/world/middleeast/morocco-first-woman-prime-minister.html",
       "time": "2026-10-01T06:23:46+09:00",
-      "timeAgo": "6h ago",
+      "timeAgo": "1d ago",
       "topic": "Politics",
       "country": "Morocco",
       "keywords": [
@@ -79,43 +686,11 @@
       "badge": "b-nyt"
     },
     {
-      "title": "Watch Cabo Verde vs Rwanda - TOD",
-      "desc": "Watch Cabo Verde vs Rwanda&nbsp;&nbsp;TOD",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQm42UGxiaVhudVFfclFUaE1wNE1LNUk2SzJBR2xyMTNNWUY1V0FjdndSVDFaTVJmOV9wTVBKblduak9WRHBoWVpVR0tvUFU5VS1sSGhERThfUmx3S0lnVEFFdk9rU2gwUlNoa0xRZXpDYm1hWFhsRnJKU1JsQlFubnZ4anVNZGhRVDFvd0NCU3JIVTR5Zi1fYV9McEVDbjJqclJaWlAtb1Q5ek1uUWNGUTBxR3Y?oc=5",
-      "time": "2026-10-01T05:11:59+09:00",
-      "timeAgo": "7h ago",
-      "topic": "Society",
-      "country": "Rwanda",
-      "keywords": [
-        "watch",
-        "cabo",
-        "verde"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
-      "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
-      "desc": "Displaced by war and shut out of formal jobs, young Sudanese are turning to art, small businesses, and entrepeneurship.",
-      "url": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
-      "time": "2026-10-01T04:43:47+09:00",
-      "timeAgo": "8h ago",
-      "topic": "Conflict",
-      "country": "Regional",
-      "keywords": [
-        "displaced",
-        "young",
-        "sudanese"
-      ],
-      "src": "Al Jazeera",
-      "badge": "b-aj"
-    },
-    {
       "title": "Rwanda: Urukiko rukuru rwashimangiye igifungo cya burundu kuri Béatrice Munyenyezi ku byaha bya jenoside - BBC",
       "desc": "Rwanda: Urukiko rukuru rwashimangiye igifungo cya burundu kuri Béatrice Munyenyezi ku byaha bya jenoside&nbsp;&nbsp;BBC",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWVXA3SWZqZmJxaGJXbmNVOE1NemlFMVB5UDY2NERQc0EzZnhqRDhEeGlsNVpoZDl6YnF3bExLWVBoX05mYkYyN3ByNDRuc25GdENUd2ZLSWRaWWQyQXfSAWNBVV95cUxQaEN1SnVrcGxtMnFOMVRpUHFqRzBCXzJEd3NseFpkZE01SmNCVlVzdS1XY08xd21tOVBraThjb2owYmhOdFc4T2JnTlFuU2ZXM0tRNEpYS2s3N1FlTzdRRDBOVXc?oc=5",
-      "time": "2026-10-01T04:18:45+09:00",
-      "timeAgo": "8h ago",
+      "time": "2026-10-01T04:19:20+09:00",
+      "timeAgo": "1d ago",
       "topic": "Society",
       "country": "Rwanda",
       "keywords": [
@@ -131,7 +706,7 @@
       "desc": "South African anti-migrant protesters rallied in Durban vow to keep up their months-long fight to get undocumented migrants to leave the country",
       "url": "http://www.africanews.com/2026/09/30/no-backing-down-safrican-anti-migrant-protesters-vow-to-keep-marching/",
       "time": "2026-10-01T04:18:31+09:00",
-      "timeAgo": "8h ago",
+      "timeAgo": "1d ago",
       "topic": "Society",
       "country": "South Africa",
       "keywords": [
@@ -143,43 +718,11 @@
       "badge": "b-an"
     },
     {
-      "title": "Rwanda open to hosting migrants transferred from Europe, EU lawmakers say - WSAU",
-      "desc": "Rwanda open to hosting migrants transferred from Europe, EU lawmakers say&nbsp;&nbsp;WSAU",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUXRmRjVjSXZmYnowUW9obWExZzE1QS1TUXV3UzJxcnpQbC1ZdHlQbmlidUVmYjhDbDZGb0dzYm5QSDUxdlNHQ3RjV3ltT0h2VkFBQjdtT1IzQzNWTXBjel8tYVp6X2x5V0gyLXk2aTFwc003S0llX0xGcU5CNXNjNEVkWnBmSlQ1cDExeFpOcTJxWmdLaUwzaFVqWEl1dXBVd2t3?oc=5",
-      "time": "2026-10-01T03:36:56+09:00",
-      "timeAgo": "9h ago",
-      "topic": "Society",
-      "country": "Rwanda",
-      "keywords": [
-        "rwanda",
-        "open",
-        "hosting"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
-      "title": "Rwanda open to hosting migrants transferred from Europe, EU lawmakers say - TradingView",
-      "desc": "Rwanda open to hosting migrants transferred from Europe, EU lawmakers say&nbsp;&nbsp;TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSjd2YVdoOG5uaHN3RFpTbEJFWUh1Nm4wY1pIQ0xrV2lmTkVubS0zRUhXaC1YbHB6R0xNcWtidGVJU1dSMmtIUjZYTXV4M09xV3d5enR0Y0hjOVVoazZBTjZTRlJCU0M0OFZzTzBsNVVaSUIyOGJuNW1RX09BenowWjUwSHFKS21mNXdQLVp1X1dwRFNsRVFZMkV6c1FmWHZrZmdIWHdvSXlQanY0MDVhY3hQX1A5UG0xejZDdzJvSmdKZUNmM29OeGNlYlZtTnBfWnFnZDlKc21DZw?oc=5",
-      "time": "2026-10-01T03:12:37+09:00",
-      "timeAgo": "9h ago",
-      "topic": "Society",
-      "country": "Rwanda",
-      "keywords": [
-        "rwanda",
-        "open",
-        "hosting"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
       "title": "Africa Go Green Fund provides $18m debt facility for Rwanda cold storage - africaprivateequitynews.com",
       "desc": "Africa Go Green Fund provides $18m debt facility for Rwanda cold storage&nbsp;&nbsp;africaprivateequitynews.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcFk4VzdjdlIzNDlJSXVyN05KRFR5WkRDR2ZpVTJTLWlrc2dOSnk4ekxwa2ozUENONG5UQnNoT2hXS0ljY3NHdW1hdVRUZGZQX0JDN2poMVBzdkpHbFZ5YkZZVk16NjZLVEk1ckNlVW83cnNsdzl2SjhVRGVSVHVZZg?oc=5",
       "time": "2026-10-01T01:47:27+09:00",
-      "timeAgo": "11h ago",
+      "timeAgo": "1d ago",
       "topic": "Economy",
       "country": "Rwanda",
       "keywords": [
@@ -195,7 +738,7 @@
       "desc": "Burkina Faso has inaugurated its first gold refinery as its military-led government seeks to strengthen economic sovereignty after breaking ties with its tradit…",
       "url": "http://www.africanews.com/2026/09/30/pix-of-the-day-30-september-2026-across-the-world/",
       "time": "2026-10-01T01:45:03+09:00",
-      "timeAgo": "11h ago",
+      "timeAgo": "1d ago",
       "topic": "Politics",
       "country": "Burkina Faso",
       "keywords": [
@@ -207,27 +750,11 @@
       "badge": "b-an"
     },
     {
-      "title": "Africa: Mamili Calls for Unity, Warns Against Divisive Speech",
-      "desc": "[New Era] Chinchimani -- Mafwe Chief George Mamili VII has called on his subjects and communities across the Zambezi region to embrace unity, tolerance and peac…",
-      "url": "https://allafrica.com/stories/202609300604.html",
-      "time": "2026-10-01T01:06:57+09:00",
-      "timeAgo": "11h ago",
-      "topic": "Conflict",
-      "country": "Regional",
-      "keywords": [
-        "mamili",
-        "calls",
-        "unity"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
       "title": "IATA says African air cargo capacity rose by 14 per cent in August",
       "desc": "The world airline body said this significantly outpaced the 3 per cent growth in cargo demand across the region.",
       "url": "http://www.africanews.com/2026/09/30/iata-says-african-air-cargo-capacity-rose-by-14-per-cent-in-august/",
       "time": "2026-10-01T00:23:13+09:00",
-      "timeAgo": "12h ago",
+      "timeAgo": "1d ago",
       "topic": "Humanitarian",
       "country": "Regional",
       "keywords": [
@@ -239,27 +766,11 @@
       "badge": "b-an"
     },
     {
-      "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
-      "desc": "The deadly fighting has also spread to neighbouring regions, stranding tourists in Lalibela.",
-      "url": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-10-01T00:04:32+09:00",
-      "timeAgo": "12h ago",
-      "topic": "Society",
-      "country": "Ethiopia",
-      "keywords": [
-        "ethiopia",
-        "fighting",
-        "escalates"
-      ],
-      "src": "BBC",
-      "badge": "b-bbc"
-    },
-    {
       "title": "Africa: U.S. Billionaire Tim Draper Backs Africa Blockchain Festival in Nairobi",
       "desc": "[Capital FM] Nairobi -- US billionaire venture capitalist and Bitcoin advocate Tim Draper has highlighted Africa's potential to leapfrog traditional financial s…",
       "url": "https://allafrica.com/stories/202609300549.html",
       "time": "2026-09-30T23:54:53+09:00",
-      "timeAgo": "13h ago",
+      "timeAgo": "1d ago",
       "topic": "Society",
       "country": "Kenya",
       "keywords": [
@@ -275,7 +786,7 @@
       "desc": "Anti-migrant group March and March staged demonstrations against illegal immigration across several South African provinces on Wednesday. The movement had set t…",
       "url": "http://www.africanews.com/2026/09/30/hundreds-of-south-africans-protest-against-undocumented-immigrants-in-durban/",
       "time": "2026-09-30T23:36:49+09:00",
-      "timeAgo": "13h ago",
+      "timeAgo": "1d ago",
       "topic": "Society",
       "country": "South Africa",
       "keywords": [
@@ -291,7 +802,7 @@
       "desc": "In his address in St. Peter's Square on Wednesday, Pope Leo XIV called on all parties involved in the latest episode of violence in northern Ethiopia to engage …",
       "url": "http://www.africanews.com/2026/09/30/pope-leo-xiv-calls-for-dialogue-in-ethiopia-amid-renewed-fighting-in-tigray/",
       "time": "2026-09-30T22:28:03+09:00",
-      "timeAgo": "14h ago",
+      "timeAgo": "1d ago",
       "topic": "Conflict",
       "country": "Ethiopia",
       "keywords": [
@@ -307,7 +818,7 @@
       "desc": "Africa's richest man was set to break ground on a new $16-billion mega-refinery in Kenya on Wednesday, saying it marked a \"new chapter in Africa's industrial jo…",
       "url": "http://www.africanews.com/2026/09/30/dangotes-16bn-kenya-refinery-new-chapter-for-africa/",
       "time": "2026-09-30T21:36:08+09:00",
-      "timeAgo": "15h ago",
+      "timeAgo": "1d ago",
       "topic": "Economy",
       "country": "Kenya",
       "keywords": [
@@ -323,7 +834,7 @@
       "desc": "[The Conversation Africa] In his farewell address to the United Nations General Assembly last week, Ant&#xF3;nio Guterres reminisced about his time as secretary…",
       "url": "https://allafrica.com/stories/202609300440.html",
       "time": "2026-09-30T21:16:14+09:00",
-      "timeAgo": "15h ago",
+      "timeAgo": "1d ago",
       "topic": "Society",
       "country": "Regional",
       "keywords": [
@@ -335,123 +846,11 @@
       "badge": "b-aa"
     },
     {
-      "title": "Africa: Somali Senate Secretary-General Attends African Parliamentary Officials' Meeting in South Africa",
-      "desc": "[Shabelle] Midrand, South Africa -- Somalia's Senate Secretary-General, Abdinasir Ibrahim Guled, has attended the seventh annual conference of the Association o…",
-      "url": "https://allafrica.com/stories/202609300326.html",
-      "time": "2026-09-30T20:36:03+09:00",
-      "timeAgo": "16h ago",
-      "topic": "Politics",
-      "country": "South Africa",
-      "keywords": [
-        "somali",
-        "senate",
-        "secretary"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
-      "desc": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-      "time": "2026-09-30T20:25:12+09:00",
-      "timeAgo": "16h ago",
-      "topic": "Economy",
-      "country": "Kenya",
-      "keywords": [
-        "richest",
-        "launches",
-        "kenya"
-      ],
-      "src": "BBC",
-      "badge": "b-bbc"
-    },
-    {
-      "title": "Africa: Workable Nairobi Becomes Africa's First Well Coworking Rated Workspace",
-      "desc": "[Capital FM] Nairobi -- Workable Nairobi has become the first coworking space in Africa to achieve the WELL Coworking Rating, an international benchmark focused…",
-      "url": "https://allafrica.com/stories/202609300319.html",
-      "time": "2026-09-30T20:20:15+09:00",
-      "timeAgo": "16h ago",
-      "topic": "Society",
-      "country": "Kenya",
-      "keywords": [
-        "workable",
-        "nairobi",
-        "becomes"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "Africa: Ipinge Earns Africa a Grade After Africa Netball Cup Officiating Stint",
-      "desc": "[New Era] Namibian netball umpire Aaron Ipinge returned from the recently concluded Africa Netball Cup in Nairobi, Kenya, with valuable international experience…",
-      "url": "https://allafrica.com/stories/202609300266.html",
-      "time": "2026-09-30T19:45:13+09:00",
-      "timeAgo": "17h ago",
-      "topic": "Sport",
-      "country": "Kenya",
-      "keywords": [
-        "ipinge",
-        "earns",
-        "grade"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "Nigerian dancer eyes world record after seven-day marathon",
-      "desc": "Benjamin Daniel, known as Ben Dancer, danced non-stop for 176 hours, 52 minutes and 59 seconds between September 22 and 29, in an attempt to break the world rec…",
-      "url": "http://www.africanews.com/2026/09/30/nigerian-dancer-eyes-world-record-after-seven-day-marathon/",
-      "time": "2026-09-30T19:41:34+09:00",
-      "timeAgo": "17h ago",
-      "topic": "Society",
-      "country": "Nigeria",
-      "keywords": [
-        "nigerian",
-        "dancer",
-        "eyes"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "Africa: Canal+ Secures AFCON 2027 Qualifiers, Finals Broadcast Rights",
-      "desc": "[This Day] CANAL+ has secured the rights to the TotalEnergies CAF Africa Cup of Nations PAMOJA 2027 qualifiers and tournament finals, with the competition to be…",
-      "url": "https://allafrica.com/stories/202609300229.html",
-      "time": "2026-09-30T18:59:16+09:00",
-      "timeAgo": "18h ago",
-      "topic": "Sport",
-      "country": "Regional",
-      "keywords": [
-        "canal",
-        "secures",
-        "afcon"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "President Mnangagwa highlights economic gains, warns of drought risk in Zimbabwe",
-      "desc": "He attributed those macroeconomic gains to a stronger financial-sector framework, saying this should help maintain confidence in Zimbabwe’s economy.",
-      "url": "http://www.africanews.com/2026/09/30/president-mnangagwa-highlights-economic-gains-warns-of-drought-risk-in-zimbabwe/",
-      "time": "2026-09-30T18:23:04+09:00",
-      "timeAgo": "18h ago",
-      "topic": "Politics",
-      "country": "Zimbabwe",
-      "keywords": [
-        "president",
-        "mnangagwa",
-        "highlights"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
       "title": "Africa: No Evidence Criminals Are Claiming to Test Blood Sugar for Free Only to 'Inject Victims With HIV' - Old Hoax Resurfaces",
       "desc": "[Africa Check] IN SHORT: A graphic circulating online in South Africa and Nigeria warns of criminals claiming to test blood sugar for free, only to infect peopl…",
       "url": "https://allafrica.com/stories/202609300171.html",
       "time": "2026-09-30T18:11:06+09:00",
-      "timeAgo": "18h ago",
+      "timeAgo": "1d ago",
       "topic": "Conflict",
       "country": "South Africa",
       "keywords": [
@@ -467,7 +866,7 @@
       "desc": "[spotlight] All medicines and treatments have to go through lengthy safety and efficacy testing, but this is particularly tricky - and often delayed - for one i…",
       "url": "https://allafrica.com/stories/202609300169.html",
       "time": "2026-09-30T18:09:47+09:00",
-      "timeAgo": "18h ago",
+      "timeAgo": "1d ago",
       "topic": "Society",
       "country": "Regional",
       "keywords": [
@@ -483,7 +882,7 @@
       "desc": "[263Chat] Twenty-five African and African-diasporan faith leaders, theologians, scholars and constitutional thinkers have launched the African Democratic Covena…",
       "url": "https://allafrica.com/stories/202609300167.html",
       "time": "2026-09-30T18:07:56+09:00",
-      "timeAgo": "18h ago",
+      "timeAgo": "1d ago",
       "topic": "Politics",
       "country": "Regional",
       "keywords": [
@@ -495,59 +894,11 @@
       "badge": "b-aa"
     },
     {
-      "title": "Win for Kenya as Rwanda deal targets tenfold rise in fuel traffic through Northern Corridor - the-star.co.ke",
-      "desc": "Win for Kenya as Rwanda deal targets tenfold rise in fuel traffic through Northern Corridor&nbsp;&nbsp;the-star.co.ke",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUlJPZlNvdVk2b1VFZC14dkZIcS1LVVBLdkktZjJZM2EzQXBRVng2MlM4VXRqR194bldIQ1BMR1o0VGFMNWpXMG1XWVZVUEtodzllUDhrYm9lYjRjV1U1ekpJYWJhb1NZdUF1eEhwLThpSGJKYWZHRjhpVUkxQ2pWRnlfb25GZnYxT3BwWS1LNUpraXFfcENpQzNaSm10aDM4?oc=5",
-      "time": "2026-09-30T18:00:00+09:00",
-      "timeAgo": "19h ago",
-      "topic": "Society",
-      "country": "Kenya",
-      "keywords": [
-        "kenya",
-        "rwanda",
-        "deal"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
-      "title": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe",
-      "desc": "The murders of 12 women near Johannesburg has caused a outcry about the scale of violence against women.",
-      "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-09-30T17:40:01+09:00",
-      "timeAgo": "19h ago",
-      "topic": "Politics",
-      "country": "South Africa",
-      "keywords": [
-        "crackdown",
-        "south",
-        "unsafe"
-      ],
-      "src": "BBC",
-      "badge": "b-bbc"
-    },
-    {
-      "title": "South Africa's Ramaphosa announces measures against gender-based violence",
-      "desc": "After a recent spate of femicides shocked South Africa, the country's president Cyril Ramaphosa ordered urgent action to better protect women.",
-      "url": "http://www.africanews.com/2026/09/30/south-africas-ramaphosa-announces-measures-against-gender-based-violence/",
-      "time": "2026-09-30T17:28:40+09:00",
-      "timeAgo": "19h ago",
-      "topic": "Politics",
-      "country": "South Africa",
-      "keywords": [
-        "south",
-        "ramaphosa",
-        "announces"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
       "title": "Africa: Cholera Deaths Soared in 2025, Africa Having 90% of cases - UN",
       "desc": "[allAfrica] Geneva -- Cholera deaths increased globally by 30 percent in 2025, despite fewer cases being reported to the World Health Organization, with five co…",
       "url": "https://allafrica.com/stories/202609300113.html",
       "time": "2026-09-30T16:00:55+09:00",
-      "timeAgo": "20h ago",
+      "timeAgo": "1d ago",
       "topic": "Society",
       "country": "Regional",
       "keywords": [
@@ -563,7 +914,7 @@
       "desc": "Piracy off the Somali coast has increased in recent years after dropping when international naval operations began in 2011.",
       "url": "https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-30T15:41:35+09:00",
-      "timeAgo": "21h ago",
+      "timeAgo": "1d ago",
       "topic": "Conflict",
       "country": "Regional",
       "keywords": [
@@ -579,7 +930,7 @@
       "desc": "[allAfrica]",
       "url": "https://allafrica.com/stories/202609300108.html",
       "time": "2026-09-30T15:41:07+09:00",
-      "timeAgo": "21h ago",
+      "timeAgo": "1d ago",
       "topic": "Society",
       "country": "Regional",
       "keywords": [
@@ -590,27 +941,11 @@
       "badge": "b-aa"
     },
     {
-      "title": "Morocco’s first woman premier pledges to meet citizens’ expectations",
-      "desc": "El Mansouri's cabinet will have to tackle several pressing issues including unemployment and living costs, as well as persistent social disparities particularly…",
-      "url": "http://www.africanews.com/2026/09/30/moroccos-first-woman-premier-pledges-to-meet-citizens-expectations/",
-      "time": "2026-09-30T15:36:11+09:00",
-      "timeAgo": "21h ago",
-      "topic": "Society",
-      "country": "Morocco",
-      "keywords": [
-        "morocco",
-        "first",
-        "woman"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
       "title": "Ni iki cyihishe inyuma y'ikibatsi mu mubano wa DR Congo na Israel isanzwe ari inshuti y'u Rwanda? - BBC",
       "desc": "Ni iki cyihishe inyuma y'ikibatsi mu mubano wa DR Congo na Israel isanzwe ari inshuti y'u Rwanda?&nbsp;&nbsp;BBC",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vUWg2eUdUS1FPUEVYOGJ0T21IcFgwNFF6WmNKQTZLNnU1WFFxbkhyRGJkSmdxbHdjRkFkX01RblpaYm40Q1FNTnlvaU1Sd0hYZ1VfV2hrTjdlR18yRVHSAWNBVV95cUxNUE9QR01yc1pKUS0xQk5uMjZxQ1dxTzFvQXVxZ1BEQnNWWW4zd01JNWZzTmthUGlrVEVocVpxdWVDd0p1ZXVKc09ybEFsb25LVjRNMUk5MDM0Und2RTVjMHU5Qjg?oc=5",
       "time": "2026-09-30T14:23:44+09:00",
-      "timeAgo": "22h ago",
+      "timeAgo": "1d ago",
       "topic": "Society",
       "country": "DRC",
       "keywords": [
@@ -622,59 +957,11 @@
       "badge": "b-rw"
     },
     {
-      "title": "Africa: WHO Reports Latest Global Trends in Cholera, Meningitis and Plague",
-      "desc": "[WHO] Cholera deaths increased by 30% in 2025, despite fewer cases being reported to the World Health Organization (WHO).",
-      "url": "https://allafrica.com/stories/202609300074.html",
-      "time": "2026-09-30T14:20:52+09:00",
-      "timeAgo": "22h ago",
-      "topic": "Society",
-      "country": "Regional",
-      "keywords": [
-        "reports",
-        "latest",
-        "global"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "Burkina Faso opens first gold refinery in push for economic independence",
-      "desc": "Burkina Faso opened its first gold refinery, pushing ahead with plans to better organise the commercialisation of the precious metal in one of the continent's t…",
-      "url": "http://www.africanews.com/2026/09/30/burkina-faso-opens-first-gold-refinery-in-push-for-economic-independence/",
-      "time": "2026-09-30T14:20:33+09:00",
-      "timeAgo": "22h ago",
-      "topic": "Economy",
-      "country": "Burkina Faso",
-      "keywords": [
-        "burkina",
-        "faso",
-        "opens"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "Africa: Navigating the 2026 El Ni&#xF1;o - Turning Forecasts Into Early Action in the Horn of Africa",
-      "desc": "[ENA] The Horn of Africa is approaching the final months of 2026 with an increasingly important climate signal that is a strengthening El Ni&#xF1;o that could b…",
-      "url": "https://allafrica.com/stories/202609300034.html",
-      "time": "2026-09-30T14:00:36+09:00",
-      "timeAgo": "22h ago",
-      "topic": "Environment",
-      "country": "Regional",
-      "keywords": [
-        "navigating",
-        "turning",
-        "forecasts"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
       "title": "Kenya delivers first 40,000-tonne fuel cargo to Rwanda as Dangote prepares $17bn refinery for East African market - Business Insider Africa",
       "desc": "Kenya delivers first 40,000-tonne fuel cargo to Rwanda as Dangote prepares $17bn refinery for East African market&nbsp;&nbsp;Business Insider Africa",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVWJOSXlsXzUwa1hkTUZPM1B6TFl5dE5kRkZEQmd1UUFlRlJXX0RkZm8zcElXdlNDRXNkV0ZUSDJldHdwT2YtbHViYTVmdC1Db0lWRW1JeVByR2xwaWxCdG1PTElORWZuNFVXaURxOURfdVdweFQ5aTNUT2NIQ1piS0djNHRabE1XRDcxMWpWTm1vVHpmVENvNVZhekpmQXl3NjF3RVFfOGI4ZzlxbHBYSm5iZzk5NWhoQ2g3RUhsN0hyaksyZHpBMnlvOENCWDhHY1JWSS1jYXg?oc=5",
       "time": "2026-09-30T13:55:58+09:00",
-      "timeAgo": "23h ago",
+      "timeAgo": "1d ago",
       "topic": "Economy",
       "country": "Kenya",
       "keywords": [
@@ -686,27 +973,11 @@
       "badge": "b-rw"
     },
     {
-      "title": "Africa: Fragmented Policies Hold Back Agroecology Adoption in Africa's Congo Basin",
-      "desc": "[IPS] Yaounde, Cameroon -- Agricultural, land, forestry, environmental and trade policies in the Congo Basin remain compartmentalised at country levels, leaving…",
-      "url": "https://allafrica.com/stories/202609300002.html",
-      "time": "2026-09-30T13:41:32+09:00",
-      "timeAgo": "23h ago",
-      "topic": "Economy",
-      "country": "DRC",
-      "keywords": [
-        "fragmented",
-        "policies",
-        "hold"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
       "title": "Another Vozinha error proves costly as Rwanda fight back to beat Cape Verde in AFCON qualifying - Goal.com",
       "desc": "Another Vozinha error proves costly as Rwanda fight back to beat Cape Verde in AFCON qualifying&nbsp;&nbsp;Goal.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVTdXQXBXUlB5RWpHWTctNzZPbTQ5S01JOWZZMm9xdWV1eXFkYTk0ZV9PYjlMODFaaFhQTGhwZUpvQUc0by1DZURyMDRnRFhyVDh3c2xYaW9NRFlaM1VaWnNIbnV4WEpBdThFMEtuQVJtQ2VPeWhtU1V6UklsbmdmUXlkYTgzMWVXVEttV3JkYWRsanNLUlhyZVN4VEdrUW5LdENfSmZPZHI?oc=5",
       "time": "2026-09-30T13:40:20+09:00",
-      "timeAgo": "23h ago",
+      "timeAgo": "1d ago",
       "topic": "Sport",
       "country": "Rwanda",
       "keywords": [
@@ -722,7 +993,7 @@
       "desc": "Kijanangoma has been crowned amid a dispute over a young heir whom the royal clan does not recognise.",
       "url": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-30T05:09:27+09:00",
-      "timeAgo": "1d ago",
+      "timeAgo": "2d ago",
       "topic": "Society",
       "country": "Uganda",
       "keywords": [
@@ -738,7 +1009,7 @@
       "desc": "The Trump administration announced new visa restrictions on the country days after receiving a letter that South African officials had hoped would bring down th…",
       "url": "https://www.nytimes.com/2026/09/29/world/africa/south-africa-trump-letter-visas-racism.html",
       "time": "2026-09-30T05:07:11+09:00",
-      "timeAgo": "1d ago",
+      "timeAgo": "2d ago",
       "topic": "Society",
       "country": "South Africa",
       "keywords": [
@@ -754,7 +1025,7 @@
       "desc": "Cape Verde vs Rwanda: Africa Cup of Nations Qualification stats & head-to-head&nbsp;&nbsp;BBC",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50c1BfZHhRTy16R3ZGbngxMHFoU0gwRFJQV2U5cDQzR2hrT3k3X3F0U0trbG12T3hPdnFIYlhIRkN1QTNrck9qam1PRVVYMWM1bV9HMWFxb2trd2RXUnVjSVNRVQ?oc=5",
       "time": "2026-09-30T04:43:36+09:00",
-      "timeAgo": "1d ago",
+      "timeAgo": "2d ago",
       "topic": "Sport",
       "country": "Rwanda",
       "keywords": [
@@ -770,7 +1041,7 @@
       "desc": "Edward Rukidi Nyabongo I has been crowned king of Tooro in a ceremony attended by Uganda's President Museveni.",
       "url": "https://www.bbc.co.uk/news/videos/cry4z9jw3wvlo?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-30T04:35:19+09:00",
-      "timeAgo": "1d ago",
+      "timeAgo": "2d ago",
       "topic": "Politics",
       "country": "Uganda",
       "keywords": [
@@ -782,75 +1053,11 @@
       "badge": "b-bbc"
     },
     {
-      "title": "Goals and Highlights: Cape Verde 1-2 Rwanda in Africa Cup of Nations Qualifiers - vavel.com",
-      "desc": "Goals and Highlights: Cape Verde 1-2 Rwanda in Africa Cup of Nations Qualifiers&nbsp;&nbsp;vavel.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHZWOEJmLU1ISFQ4Vzh2V1p1MXJCbEVLVGkzMWl6TGNxa2NpUGZzS1hVRGxiUzl4TDJFZkEwQkUxVkFiODQ0d3lZYXU1dGxJUkxpTlJTMEluRThrSkhJcFJ3YU4tOGlnN1MxbXZiSmg4ZHhHOWsxM2Y5OXdmRnh2RC1xYTM4aTU3SmdrX3p0Qjk2a1lQMG1nOWVOSEJBVjhZbTBudWJXc1VhSTdNWXlGLTV30gG3AUFVX3lxTFBfN1ZfeDBCYlotdUFWUkVlZjhiRnNKckFOcm1pSTdBM2ZaNDNPMzg1UkNJWFMxRFh3MlpiYmowUk0yTkVLZnFJSjZWb2dOZnl3NFgzcTZxazdvT0dzQjRNXzA2U1hJLWdTNVVCWjZKSHVSRkh1eWloZ3NTU3l5dXk2YlFGTy10eWNpU0l2eWhCWnRCSTE5bGxUbnc5aFBXT19GQ1RHLXZzNDQ0b1d0QldLblRscnRGOA?oc=5",
-      "time": "2026-09-30T03:05:57+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Sport",
-      "country": "Rwanda",
-      "keywords": [
-        "goals",
-        "highlights",
-        "cape"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
-      "title": "Morocco's king appoints the country's first-ever female prime minister",
-      "desc": "Fatima Ezzahra El Mansouri has been the mayor of Marrakesh for a number of years and also served as a minister in the previous coalition government.",
-      "url": "http://www.africanews.com/2026/09/29/moroccos-king-appoints-the-countrys-first-ever-female-prime-minister/",
-      "time": "2026-09-30T02:58:23+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Politics",
-      "country": "Morocco",
-      "keywords": [
-        "morocco",
-        "king",
-        "appoints"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "First female prime minister named in Morocco after winning elections",
-      "desc": "Her appointment by the king makes her only the second woman to lead a government in the Arab world.",
-      "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-09-30T02:14:10+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Politics",
-      "country": "Morocco",
-      "keywords": [
-        "first",
-        "female",
-        "prime"
-      ],
-      "src": "BBC",
-      "badge": "b-bbc"
-    },
-    {
-      "title": "Africa: A Network That Never Asks for Money Moved $100 Million Last Year",
-      "desc": "[RootsToFoods Capital Series] In a RootsToFoods Capital Series interview continuing Wave 2 of the series, Michael Meehan, founder of the Forum for Impact and fo…",
-      "url": "https://allafrica.com/stories/202609290622.html",
-      "time": "2026-09-30T02:10:37+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Humanitarian",
-      "country": "Regional",
-      "keywords": [
-        "network",
-        "never",
-        "asks"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
       "title": "Son of Zambian bishop detained in post-election raid fears for his father's safety",
       "desc": "Trevor Mwamba was detained last month with other opposition figures and charged with treason, his son says.",
       "url": "https://www.bbc.co.uk/news/videos/cvj64lr7dnn4o?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-30T01:03:05+09:00",
-      "timeAgo": "1d ago",
+      "timeAgo": "2d ago",
       "topic": "Politics",
       "country": "Zambia",
       "keywords": [
@@ -862,27 +1069,11 @@
       "badge": "b-bbc"
     },
     {
-      "title": "Congolese politician beaten to death after promoting Ebola awareness",
-      "desc": "A Congolese politician has been beaten to death after promoting Ebola awareness during a radio interview. Marie-Celestin Karondwa from the ruling UDPS party was…",
-      "url": "http://www.africanews.com/2026/09/29/congolese-politician-beaten-to-death-after-promoting-ebola-awareness/",
-      "time": "2026-09-30T00:31:56+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Conflict",
-      "country": "Regional",
-      "keywords": [
-        "congolese",
-        "politician",
-        "beaten"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
       "title": "ATLAS Space Operations and York Space Systems Activate Second Antenna at Rwanda Teleport to Double Equatorial Contact Capacity - satnews.com",
       "desc": "ATLAS Space Operations and York Space Systems Activate Second Antenna at Rwanda Teleport to Double Equatorial Contact Capacity&nbsp;&nbsp;satnews.com",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbXhqeTlocG5TUG1NemZ1eXJiVEdRbFlZMVlCT25UUXp0X05ZY2E5cmVJWm8tZkdkallwd0QyeHQxYndIcGFuXzNuMVZGdUNjR2ZyWkJNZktYX3p0T2NwN2I5YUlNSnd2X00wMGxjZmMwdW01c3ZFQXRaUzJhWnhrNEc2VXdjSnd6ajNzdUJZV1lKbU5HVlp5OTdFRVVoalo5c3hlaVRzRWlvRHdxS0M2ZEIyMk1nelljcDdSTDd1b3l0YW56NTc2czQzSmRVV2Itd0Y5dmU2anFSbDFXN3ZFNFlpNUZhQ2Y3Ql9adHB4TQ?oc=5",
       "time": "2026-09-30T00:24:48+09:00",
-      "timeAgo": "1d ago",
+      "timeAgo": "2d ago",
       "topic": "Society",
       "country": "Rwanda",
       "keywords": [
@@ -894,75 +1085,11 @@
       "badge": "b-rw"
     },
     {
-      "title": "Cameroon: Families demand justice as femicide rate continues to rise",
-      "desc": "Anger is growing in Cameroon over rising gender-based violence that has seen at least 56 women killed since the start of the year. In response to the outcry, a …",
-      "url": "http://www.africanews.com/2026/09/29/cameroon-families-demand-justice-as-femicide-rate-continues-to-rise/",
-      "time": "2026-09-30T00:02:54+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Conflict",
-      "country": "Cameroon",
-      "keywords": [
-        "cameroon",
-        "families",
-        "demand"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "Nigerian dances non-stop for seven days in world record bid",
-      "desc": "Crowds cheered on Ben Dancer as completed his challenge and he has now gone to  hospital for a check-up",
-      "url": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-09-29T23:50:09+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Society",
-      "country": "Nigeria",
-      "keywords": [
-        "nigerian",
-        "dances",
-        "stop"
-      ],
-      "src": "BBC",
-      "badge": "b-bbc"
-    },
-    {
-      "title": "Ghana's free speech debate: Where should the law draw the line?",
-      "desc": "Ghana is confronting a renewed debate over where legitimate law enforcement ends and the protection of free expression begins.",
-      "url": "http://www.africanews.com/2026/09/29/ghanas-free-speech-debate-where-should-the-law-draw-the-line/",
-      "time": "2026-09-29T23:15:02+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Society",
-      "country": "Ghana",
-      "keywords": [
-        "ghana",
-        "free",
-        "speech"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "Nigerian oil tycoon Dangote says Africa will be mostly fuel self-sufficient by 2030",
-      "desc": "Oil tycoon Aliko Dangote says he believes the continent will will largely supply its own refined fuel needs by 2030.",
-      "url": "http://www.africanews.com/2026/09/29/nigerian-oil-tycoon-dangote-says-africa-will-be-mostly-fuel-self-sufficient-by-2030/",
-      "time": "2026-09-29T23:14:46+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Society",
-      "country": "Nigeria",
-      "keywords": [
-        "nigerian",
-        "tycoon",
-        "dangote"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
       "title": "Africa: Who Is Missing From Africa's AI Future?",
       "desc": "[allAfrica] What if every baby born in Africa started life with an all-access key to the 21st century? Not a smartphone or an AI assistant, but something much m…",
       "url": "https://allafrica.com/stories/202609290416.html",
       "time": "2026-09-29T22:49:21+09:00",
-      "timeAgo": "1d ago",
+      "timeAgo": "2d ago",
       "topic": "Technology",
       "country": "Regional",
       "keywords": [
@@ -977,7 +1104,7 @@
       "desc": "Security Council LIVE: DRC peace deals fail to halt fighting as Ebola deepens crisis&nbsp;&nbsp;UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50bHlMdTg1Zm5qY1FnNHg3a0M4ekZrb0JZZ2tyRFI1cURkUjQwWUJfUVR2YV9iTTZaOU5YTTdQalo0VDg2TUllVnpDbUhDQ3BaekE4TDI2Yw?oc=5",
       "time": "2026-09-29T22:38:22+09:00",
-      "timeAgo": "1d ago",
+      "timeAgo": "2d ago",
       "topic": "Society",
       "country": "DRC",
       "keywords": [
@@ -989,90 +1116,11 @@
       "badge": "b-rw"
     },
     {
-      "title": "South Africa: Competition between criminal networks fuelling mass shootings, analysts say",
-      "desc": "Organised crime, gang violence and conflicts over the control of criminal networks are fuelling mass shootings in South Africa, according to the Global Initiati…",
-      "url": "http://www.africanews.com/2026/09/29/south-africa-competition-between-criminal-networks-fuelling-mass-shootings-analysts-say/",
-      "time": "2026-09-29T20:26:29+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Conflict",
-      "country": "South Africa",
-      "keywords": [
-        "south",
-        "competition",
-        "between"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "Morocco detains Tangier mayor over alleged electoral fraud",
-      "desc": "The mayor of Tangier, Mounir Limouri, was placed in police custody on Monday over alleged electoral fraud in the recent parliamentary elections.",
-      "url": "http://www.africanews.com/2026/09/29/morocco-detains-tangier-mayor-over-alleged-electoral-fraud/",
-      "time": "2026-09-29T19:56:07+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Politics",
-      "country": "Morocco",
-      "keywords": [
-        "morocco",
-        "detains",
-        "tangier"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "Three Egyptian nationals jailed for 10 years over Italian researcher's abduction",
-      "desc": "Three Egyptian security officials were sentenced to 10 years in jail in Rome on Monday for the 2016 abduction of an Italian researcher. The ruling marked a sign…",
-      "url": "http://www.africanews.com/2026/09/29/three-egyptian-nationals-jailed-for-10-years-over-italian-researchers-abduction/",
-      "time": "2026-09-29T17:24:30+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Society",
-      "country": "Egypt",
-      "keywords": [
-        "three",
-        "egyptian",
-        "nationals"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
-      "title": "Africa: All of Africa Today - September 29, 2026",
-      "desc": "[allAfrica]",
-      "url": "https://allafrica.com/stories/202609290073.html",
-      "time": "2026-09-29T16:26:26+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Society",
-      "country": "Regional",
-      "keywords": [
-        "today",
-        "september"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "Nigeria: Igbos In Abuja mark New Yam Festival in grand style.",
-      "desc": "For the Igbos, the festival is more than a celebration of the first harvest of the year. It is a cultural homecoming, a moment when people reconnect with their …",
-      "url": "http://www.africanews.com/2026/09/29/nigeria-igbos-in-abuja-mark-new-yam-festival-in-grand-style/",
-      "time": "2026-09-29T15:33:42+09:00",
-      "timeAgo": "1d ago",
-      "topic": "Society",
-      "country": "Nigeria",
-      "keywords": [
-        "nigeria",
-        "igbos",
-        "abuja"
-      ],
-      "src": "Africanews",
-      "badge": "b-an"
-    },
-    {
       "title": "Rwanda G-to-G cargo lifts Mombasa’s fuel profile - Daily Nation",
       "desc": "Rwanda G-to-G cargo lifts Mombasa’s fuel profile&nbsp;&nbsp;Daily Nation",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVlktV0d5RkQ4T2JCaFBBUnJPUzlOVHVMX0cyXzFtYllhYmNnb2pxVFY2Q0RDU3o1S2NUMEgzem5wWXM5TzdORW82ekZQdmVTT1pKd3VQTWJIMWFLMkNBMk9GWlUwZFNQMHNqUVg2aTFmcm43ZlNIQ2hXX1RaRTF4TDlwN2hXbDB3NW0zNDFhRUlFQTBycTRaQlZn?oc=5",
       "time": "2026-09-29T12:00:00+09:00",
-      "timeAgo": "2d ago",
+      "timeAgo": "3d ago",
       "topic": "Society",
       "country": "Kenya",
       "keywords": [
@@ -1084,43 +1132,11 @@
       "badge": "b-rw"
     },
     {
-      "title": "Yego Coffee Review: Say ‘Yego’ to Rwandan Coffee - thecrimson.com",
-      "desc": "Yego Coffee Review: Say ‘Yego’ to Rwandan Coffee&nbsp;&nbsp;thecrimson.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByblZBbjJ2R28td1QwTXk3UW4yWXZUV19IN1FTd3lza3VDTnhWTldzMFFwSEdIalNfUS1JeG9oZ2RhUGxfN3BaT2ZYclNNdjFtSjhFSkdxVE5oeHlyWHBSQTAtb0kyN0xncUtzenpCcUxmQQ?oc=5",
-      "time": "2026-09-29T10:15:06+09:00",
-      "timeAgo": "2d ago",
-      "topic": "Society",
-      "country": "Rwanda",
-      "keywords": [
-        "yego",
-        "coffee",
-        "review"
-      ],
-      "src": "Rwanda",
-      "badge": "b-rw"
-    },
-    {
-      "title": "Africa: 'Define Success by Problems You Tackle and Solve' - Prof Moghalu to USIU-Africa Grads",
-      "desc": "[allAfrica] Nairobi -- Commencement address by At the 48th Commencement Ceremony of the United States International University-Africa (USIU-Africa) on September…",
-      "url": "https://allafrica.com/stories/202609280733.html",
-      "time": "2026-09-29T07:44:35+09:00",
-      "timeAgo": "2d ago",
-      "topic": "Society",
-      "country": "Kenya",
-      "keywords": [
-        "define",
-        "success",
-        "problems"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
       "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
       "desc": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
       "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-29T02:26:21+09:00",
-      "timeAgo": "2d ago",
+      "timeAgo": "3d ago",
       "topic": "Politics",
       "country": "South Africa",
       "keywords": [
@@ -1136,7 +1152,7 @@
       "desc": "Seven rebel groups from across Ethiopia have announced a new alliance against Prime Minister Abiy Ahmed's government.",
       "url": "https://www.bbc.co.uk/news/videos/c6n45epzdgk8o?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-28T22:21:11+09:00",
-      "timeAgo": "2d ago",
+      "timeAgo": "3d ago",
       "topic": "Politics",
       "country": "Ethiopia",
       "keywords": [
@@ -1148,26 +1164,11 @@
       "badge": "b-bbc"
     },
     {
-      "title": "Africa: All of Africa Today - September 28, 2026",
-      "desc": "[allAfrica] Monrovia -- At Least 27 Killed in Separate South African Mass Shootings",
-      "url": "https://allafrica.com/stories/202609280267.html",
-      "time": "2026-09-28T21:47:20+09:00",
-      "timeAgo": "2d ago",
-      "topic": "Conflict",
-      "country": "South Africa",
-      "keywords": [
-        "today",
-        "september"
-      ],
-      "src": "AllAfrica",
-      "badge": "b-aa"
-    },
-    {
-      "title": "Judge imposes £100,000 bail condition on Rwanda genocide accused - BBC",
-      "desc": "Judge imposes £100,000 bail condition on Rwanda genocide accused&nbsp;&nbsp;BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XTkNGenUtRW80WG1VWEhRZFk2em8wdHhBd0FkcEFta1R2R2c4ZXVlczBEWU94eVdTNTJGZlNvVjVBVTRxWFctamN6SmRMWGZMSUdtQzluV05UWkk?oc=5",
+      "title": "Judge imposes £100,000 bail condition on Rwanda genocide accused - bbc.co.uk",
+      "desc": "Judge imposes £100,000 bail condition on Rwanda genocide accused&nbsp;&nbsp;bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJNnUtc2RoTmxtUW5qYzdIM3A0YWhNaXJ4elVOdzNWcVpBMmk3N1ExZFo2S09mWGh3N203WFY5Q29mN1RmdHBpV25aMlhFZDVDOWd6SVJUYTBUcjUwZFE?oc=5",
       "time": "2026-09-28T20:15:06+09:00",
-      "timeAgo": "2d ago",
+      "timeAgo": "3d ago",
       "topic": "Society",
       "country": "Rwanda",
       "keywords": [
@@ -1183,7 +1184,7 @@
       "desc": "These were the latest deadly incidents at bars or taverns in a nation with one of the world’s highest murder rates.",
       "url": "https://www.nytimes.com/2026/09/27/world/africa/south-africa-mass-shootings-tavern.html",
       "time": "2026-09-27T20:37:20+09:00",
-      "timeAgo": "3d ago",
+      "timeAgo": "4d ago",
       "topic": "Conflict",
       "country": "South Africa",
       "keywords": [
@@ -1199,7 +1200,7 @@
       "desc": "Ethiopian runner Tigst Assefa wins the Berlin Marathon but narrowly misses out on breaking the women's world record because of injury.",
       "url": "https://www.bbc.co.uk/sport/athletics/articles/c6rr4y59n0r0o?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-27T20:14:39+09:00",
-      "timeAgo": "3d ago",
+      "timeAgo": "4d ago",
       "topic": "Society",
       "country": "Ethiopia",
       "keywords": [
@@ -1215,7 +1216,7 @@
       "desc": "Egypt forward Mohamed Salah is left out of his nation's forthcoming match against South Sudan because it will be played on artificial turf.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm1dllzgrdkro?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-26T21:57:14+09:00",
-      "timeAgo": "4d ago",
+      "timeAgo": "5d ago",
       "topic": "Conflict",
       "country": "Egypt",
       "keywords": [
@@ -1231,7 +1232,7 @@
       "desc": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
       "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-26T08:42:39+09:00",
-      "timeAgo": "5d ago",
+      "timeAgo": "6d ago",
       "topic": "Conflict",
       "country": "Ethiopia",
       "keywords": [
@@ -1247,7 +1248,7 @@
       "desc": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
       "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
       "time": "2026-09-26T08:20:48+09:00",
-      "timeAgo": "5d ago",
+      "timeAgo": "6d ago",
       "topic": "Society",
       "country": "South Africa",
       "keywords": [
@@ -1263,7 +1264,7 @@
       "desc": "A host of African leaders including the presidents of Ghana, Liberia, Kenya and Namibia demanded the change while the U.N. Secretary General said the lack of a …",
       "url": "https://www.nytimes.com/2026/09/25/world/africa/africa-security-council-representation.html",
       "time": "2026-09-26T04:18:48+09:00",
-      "timeAgo": "5d ago",
+      "timeAgo": "6d ago",
       "topic": "Politics",
       "country": "Kenya",
       "keywords": [
@@ -1279,7 +1280,7 @@
       "desc": "He won widespread acclaim as an unsigned artist, then used his fame to help other musicians in Britain and in Ghana break into the industry.",
       "url": "https://www.nytimes.com/2026/09/24/arts/music/derek-safo-sway-dead.html",
       "time": "2026-09-25T05:34:04+09:00",
-      "timeAgo": "6d ago",
+      "timeAgo": "25 Sep",
       "topic": "Society",
       "country": "Ghana",
       "keywords": [
@@ -1295,7 +1296,7 @@
       "desc": "Early results in legislative elections showed the lowest voter turnout in nearly two decades. Economic frustrations have grown as Morocco is set to co-host the …",
       "url": "https://www.nytimes.com/2026/09/24/world/africa/morocco-election-results-youth.html",
       "time": "2026-09-25T00:14:08+09:00",
-      "timeAgo": "6d ago",
+      "timeAgo": "25 Sep",
       "topic": "Politics",
       "country": "Morocco",
       "keywords": [
@@ -1311,7 +1312,7 @@
       "desc": "Tigray People’s Liberation Front seized a key airport in the city of Mekelle, as fears grow of a possible return to a full-scale war.",
       "url": "https://www.nytimes.com/2026/09/23/world/africa/ethiopia-tigray-airport.html",
       "time": "2026-09-24T16:30:03+09:00",
-      "timeAgo": "6d ago",
+      "timeAgo": "24 Sep",
       "topic": "Politics",
       "country": "Ethiopia",
       "keywords": [
@@ -1369,6 +1370,22 @@
       ],
       "src": "BBC",
       "badge": "b-bbc"
+    },
+    {
+      "title": "Qatar says ‘no alternative to diplomacy’ as Belgium and Rwanda restore ties - Al Jazeera",
+      "desc": "Qatar says ‘no alternative to diplomacy’ as Belgium and Rwanda restore ties&nbsp;&nbsp;Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ1BMUG1rQU03LW9pQXdrakxPYy01NWVVRFFGWTFmbTIzWEY2eW5lRzRVUllaZnc4OGNYNzJIWlA5SHJYTERJNF9sdVlvdkN4ZjlodG0xNW1IeklrQXd0WmpzMDVDNzVxUVlGY2o0SGducFR6NXF2V3Z6cGZaVzZXeVFkWE9oVVZYV3dXcklScUhkbGxUYVdENENyVUxTM3hxb2VXZnkxS3lJQmNFaWZ6WTZPbHHSAboBQVVfeXFMTVZncWMzdENsSlpHYmYxZzlmRmlzOWFmTnJwTG9vY0wxRDJLWE52RGdFOU8ycXFQZDJiemZQUHVLeFctUUd6QmFpaDRJWVhVeDZzLWJ5N18xUzFiNTJacFBheVYyR05wbVoyMHpEMWl2U2lfT2NtT2FRcGVjall3b3dlclhMVWREVDBwRGJnUzVIZThBSzlOeTIwMk80Z1FCR2xaajhzNGdTc0JoemM1WTZIamtWMkpicGxR?oc=5",
+      "time": "2026-09-23T17:55:10+09:00",
+      "timeAgo": "23 Sep",
+      "topic": "Society",
+      "country": "Rwanda",
+      "keywords": [
+        "qatar",
+        "alternative",
+        "diplomacy"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
     },
     {
       "title": "How Ceuta, football and Israel are shaping Morocco's election",
@@ -1433,6 +1450,22 @@
       ],
       "src": "BBC",
       "badge": "b-bbc"
+    },
+    {
+      "title": "Rwanda genocide: Dr Vincent Brown first person to face UK prosecution - bbc.co.uk",
+      "desc": "Rwanda genocide: Dr Vincent Brown first person to face UK prosecution&nbsp;&nbsp;bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOc1h5S2lmSTlPLTQzX0Z3QUx1Y2hwNHgzaXYxUjV0Y1Branp2bW9reldmS3J2S2FDV0lEWnRZZG5iZlFucnFmdEwwcTRZbFBNQmhLc2NYd0R1c1IwOVE?oc=5",
+      "time": "2026-09-22T16:00:00+09:00",
+      "timeAgo": "22 Sep",
+      "topic": "Society",
+      "country": "Rwanda",
+      "keywords": [
+        "rwanda",
+        "genocide",
+        "vincent"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
     },
     {
       "title": "Belgium, Rwanda resume diplomatic relations after DRC conflict dispute - Reuters",
@@ -1513,6 +1546,22 @@
       ],
       "src": "NYT",
       "badge": "b-nyt"
+    },
+    {
+      "title": "China is now Rwanda’s biggest export market – now comes the hard part - France 24",
+      "desc": "China is now Rwanda’s biggest export market – now comes the hard part&nbsp;&nbsp;France 24",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRG1qSU5Uemk3Sk5HVUx5TVctTHA5ZFFZYjJ2TTVfOVNtaS1EdDZwaF9sTGhaWk9rWVVPTExRZWhrWVZvUHdqZEtLWVNBbDdDTTUxZkc2ZlhFZVMzbHBIZ05kVjRQQmxfTUoyU1NqOGlZQlZpeFRZSlQzSDR0aGFha1FFSzhqN0JtVno4Y1loVW5uTElISmN1d0VjV0VydDVXQmZHaFcwNmh2MUxQeGQ4N1l3RGJQNUZJeHdxQQ?oc=5",
+      "time": "2026-09-19T16:00:00+09:00",
+      "timeAgo": "19 Sep",
+      "topic": "Economy",
+      "country": "Rwanda",
+      "keywords": [
+        "china",
+        "rwanda",
+        "biggest"
+      ],
+      "src": "Rwanda",
+      "badge": "b-rw"
     },
     {
       "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
